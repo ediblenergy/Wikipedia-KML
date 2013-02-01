@@ -1,0 +1,3147 @@
+{{GeoGroupTemplate}}
+{{Expand list|date=June 2011}}
+
+This is a '''list of [[public art]]works in [[Philadelphia]]'''.  The [[Association for Public Art]] estimates the city has thousands of public artworks;<ref>[http://www.fpaa.org/pa_map.html Fairmount Park Art Association]</ref> the Smithsonian lists more than 700.<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132547696U3Y2.33278&profile=ariall&uri=link=3100008~!182369~!3100001~!3100002&aspect=Browse&menu=search&ri=8&source=~!siartinventories&term=Outdoor+Sculpture+--+Pennsylvania+--+Philadelphia&index=OBJEC SIRIS Inventory] Search "Object type browse" and "Outdoor Sculpture -- Pennsylvania -- Philadelphia"</ref>  Since 1959 nearly 400 works of public art have been created as part of the city's [[Percent for Art]] program, the first such program in the U.S.<ref>{{cite web|title=Percent for Art Program|url=http://www.phila.gov/pra/PDFs/Program_Intro.pdf|publisher=Philadelphia Redevelopment Authority|accessdate=December 1, 2012}}</ref> 
+
+This list contains only works of public art in outdoor public spaces, and not, for example, works inside museums.  Most of the works mentioned are sculptures. Other kinds of art, i.e., [[sound installation]]s, are marked as such next to their titles.
+
+==Artworks==
+
+===Center City and Benjamin Franklin Parkway===
+{{Public art header}}   
+{{Public art row    
+| subject =[[Adam and Eve (Stonorov)]]
+| image = Adam Eve Storonov.JPG
+| artist =  {{sortname| Oscar|Stonorov}}
+| date =    1962
+| location =    Hopkinson House<br>604 South Washington Square 
+| coordinates =<small>{{coord|39.9461|-75.1523|region:US|name=Adam and Eve}}</small>
+| material =    Bronze sculpture
+| dimensions =  49 x 12.5 in
+| notes =   IAS 75009329<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15641~!0</ref>
+}}{{public art row  
+| subject = [[Aero Memorial (Manship)]]
+| image =   Aero Memorial by Paul Manship, Philadelphia - DSC06527.JPG
+| artist =  {{sortname| Paul|Manship}}
+| date =    1948
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]], opposite [[Franklin Institute]] 
+| coordinates = <small>{{coord|39.9582|-75.1720|region:US|name=Aero Memorial}}</small>
+| material =    Bronze sculpture
+| dimensions =  
+| notes =   IAS 75009257<ref>[http://collections.si.edu/search/results.htm?view=&q=record_ID%3Anpg_NPG.89.53 NPG.89.53]</ref>
+}}{{public art row  
+| subject = [[All Wars Memorial to Colored Soldiers and Sailors]]
+| image =   All Wars Memorial to Colored Soldiers and Sailors - Philadelphia, PA - DSC06524.JPG
+| artist =  {{sortname| J. Otto|Schweizer}}
+| date =    1934
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]], Benjamin Franklin Parkway and 20th Street (relocated 1994)
+| coordinates = <small>{{coord|39.9583|-75.1718|region:US|name=All Wars Memorial}}</small>
+| material =    Bronze sculptures, granite base
+| dimensions =  Height 21'6"; width 17'; depth 13'
+| notes =   IAS PA000002<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14505~!0</ref><ref>http://associationforpublicart.org/interactive-art-map/all-wars-memorial-to-colored-soldiers-and-sailors</ref>
+}}{{public art row  
+| subject = [[Amity (Brown)]]
+| image =   
+| artist =  {{sortname| David Lee|Brown}}
+| date =    1977
+| location =    10th & Market Streets
+| coordinates = <small>{{coord|39.9516|-75.1565|region:US|name=Amity (Brown)}}</small>
+| material =    Stainless steel, concrete base
+| dimensions =  
+| notes =   IAS PA001144<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338500~!0</ref>
+}}{{public art row  
+| subject = [[Apollo (unknown)]]
+| image =   
+| artist =  Unknown
+| date =    1870
+| location =    [[Hill-Keith-Physick House]] garden<br>321 South 4th Street
+| coordinates = <small>{{coord|39.9442|-75.1483|region:US}}</small>
+| material =    Bronze sculpture
+| dimensions =  60.5 x 25 x 14 in
+| notes =   IAS 88320057<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307252~!0</ref>
+}}
+{{public art row    
+| subject =  [[Matthias William Baldwin (Adams)]]
+| image =    Matthias William Baldwin.jpg
+| artist =   {{sort|Adams,Herbert|[[Herbert Adams (sculptor)|Herbert Adams]]}}
+| date =     1905
+| location =     [[Philadelphia City Hall|City Hall]], North Plaza 
+| coordinates = <small>{{coord|39.9531|-75.1629|region:US|name=Baldwin at City Hall}}</small>
+| material =     Bronze
+| dimensions =    96 x 30 x 30 in.
+| owner = City of Philadelphia 
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year=| title=Matthias William Baldwin (1795-1866), (sculpture) | work=Art Inventories Catalog | publisher=Smithsonian | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130754125K6NC.1267&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15578~!7&ri=7&aspect=Browse&menu=search&ipp=20&spp=20&staffonly=&term=Adams,+Herbert,+1858-1945,+sculptor.&index=AUTHOR&uindex=&aspect=Browse&menu=search&ri=7| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = [[Billy (Laessle)]]
+| image =   Rittenhouse Sq goat.jpg
+| artist =  {{sortname| Albert|Laessle}}
+| date =    1914
+| location =    [[Rittenhouse Square]]
+| coordinates = <small>{{coord|39.9493|-75.1718|region:US|name=Billy}}</small>
+| material =    Bronze sculpture with stone base
+| dimensions =  
+| notes =   IAS 88320080<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307275~!0</ref>
+}}{{public art row  
+| subject =  [[John Christian Bullitt (Boyle)]]
+| image =    John Christian Bullitt.jpg
+| artist =   {{sort|Boyle,John J.|[[John J. Boyle (sculptor)|John J. Boyle]]}}
+| date =     1907
+| location =     [[Philadelphia City Hall|City Hall]]
+| coordinates =  <small></small>
+| material =     Bronze
+| dimensions =   118 in. x 39 in. x 38 in
+| owner = City of Philadelphia 
+| notes =    <ref name="autogenerated1">{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=John Christian Bullitt, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=G1I98048Q3397.39158&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=&term=&index=.GW&aspect=Keyword&term=&index=.AW&term=&index=.TW&term=&index=.SW&term=&index=.FW&term=&index=.OW&term=75009350&index=.NW&x=9&y=10#focus| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = Civil War Soldiers Monument
+| image =   Civil War Soldiers and Sailors Monument (Philadelphia) - DSC06751.JPG
+| artist =  {{sort|MacNeil,Hermon Atkins|[[Hermon Atkins MacNeil]]}}
+| date =    
+| location =    [[Benjamin Franklin Parkway]] & 20th Street
+| coordinates = <small>{{coord|39.9596|-75.1727|region:US|name=Civil War Soldiers Monument}}</small>
+| material =    
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject = Civil War Sailors Monument
+| image =   Civil War Soldiers and Sailors Monument (Philadelphia) - DSC06740.JPG
+| artist =  {{sort|MacNeil,Hermon Atkins|[[Hermon Atkins MacNeil]]}}
+| date =    
+| location =    [[Benjamin Franklin Parkway]] & 20th Street
+| coordinates = <small>{{coord|39.9595|-75.1729|region:US|name=Civil War Sailors Monument}}</small>
+| material =    
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject =  |[[Clothespin (Oldenburg)]]<br>[[Centre Square#Art]]
+| image =
+| artist =   {{sort|Oldenburg,Claes|[[Claes Oldenburg]]}}
+| date =     1976
+| location =     [[Centre Square]]
+| coordinates = <small>{{coord|39.9524|-75.1653|region:US|name=Clothespin}}</small>
+| material =     [[Weathering steel|Cor-Ten]] and stainless steel
+| dimensions =   45&nbsp;ft. x 12&nbsp;ft. 3 in. x 4&nbsp;ft. 6 in.
+| owner = CommonWealth REIT
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Clothespin, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12103~!0#focus | accessdate= August 31, 2011}}</ref><ref name="Holcomb">{{cite journal | first=Henry J. | last=Holcomb | date=September 22, 2003 | title=Downtown Philadelphia Office Complex May Get $20 Million Makeover | journal=The Philadelphia Inquirer }}</ref> IAS 77001303<ref>{{cite web| url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12103~!0#focus| title=Clothespin (sculpture)| publisher=SIRIS| accessdate=September 1, 2011}}</ref>
+}}{{public art row  
+| subject =  [[Duck Girl (Manship)]]
+| image =    Girl w duck Rittenhs Sq.jpg
+| artist =   {{sort|Manship,Paul|[[Paul Manship]]}}
+| date =     1911
+| location =     [[Rittenhouse Square]]
+| coordinates = <small>{{coord|39.9492|-75.1724|region:US|name=Duck Girl (Manship)}}</small>
+| material =     Bronze
+| dimensions =   61 x 34 1/2 x 34 1/4 in.
+| owner = City of Philadelphia 
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Duck Girl, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1QP7650652O19.13051&profile=ariallimg&source=~!siartinventories&view=subscriptionsummary&uri=full=3100013~!15637~!14&ri=41&aspect=subtab37&menu=search&ipp=20&spp=20&staffonly=&term=philadelphia+girl+&index=.GI&uindex=&aspect=subtab37&menu=search&ri=41| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = The Family
+| image =   WTP D13 Techserv 1.jpg
+| artist =  Timothy Duffield
+| date =    1982
+| location =    1835 Market Street
+| coordinates = <small>{{Coord|39.9535|-75.1709|region:US_type:landmark|name=The Family}}</small>
+| material =    Bronze
+| dimensions =  18&nbsp;ft x 4&nbsp;ft
+| notes =   IAS PA000496<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13U84806U968N.26381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!327966~!5&ri=2&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=penn+center+philadelphia&index=.GW&uindex=&aspect=Keyword&menu=search&ri=2#focus]</ref>
+}}{{public art row  
+| subject = Family of Turtles
+| image =   
+| artist =  [[Eric Berg]]
+| date =    1988
+| location =    [[Fitler Square, Philadelphia, Pennsylvania|Fitler Square]], 24th & Pine Streets
+| coordinates = <small>{{Coord|39.9477|-75.1801|region:US_type:landmark|name=Family of Turtles}}</small>
+| material =    Bronze
+| dimensions =  Largest turtle: 16 x 20 x 36 in
+| notes =   IAS PA001086<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13N83N65E1517.12305&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!337999~!7&ri=2&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=eric+berg&index=.AW&uindex=&aspect=Keyword&menu=search&ri=2#focus]</ref>
+}}
+{{public art row    
+| subject = [[1st Regiment Infantry National Guard of Philadelphia]]<br> Spirit of '61
+| image =   Union Club Philly Statue 1.jpg
+| artist =  {{sortname| Henry Kirke|Bush-Brown}}
+| date =    1911
+| location =     [[Union League of Philadelphia|The Union League]], 140 South Broad Street
+| coordinates =  <small>{{coord|39.9498|-75.1644|region:US|name=Union League}}</small>
+| material =     Bronze
+| dimensions =  
+| notes =   IAS 76005394<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!16064~!0 - focus</ref><ref>{{cite news| url=http://www.time.com/time/magazine/article/0,9171,803985,00.html | work=Time | title=POLITICAL NOTES: Unmistakable Republican | date=October 28, 1946}}</ref><ref name="philart.net">http://www.philart.net/landmark.php?id=39</ref><ref>http://www.flickr.com/photos/sethgaines/478369836/</ref><ref>http://www.flickr.com/photos/sethgaines/478388331/</ref>
+}}{{public art row  
+| subject = [[Thomas Fitzsimons (Donato)]]
+| image = Tom Fitzsimmons.JPG
+| artist =   {{sort|Donato,Giuseppe|[[Giuseppe Donato]]}}
+| date =     1946
+| location =     [[Benjamin Franklin Parkway]] & 18th St 
+| coordinates =  <small>{{coord|39.9580|-75.1692|region:US|name=Fitzsimons (Donato)}}</small>
+| material =     Bronze
+| dimensions =   78 x 32 x 32 in
+| owner = City of Philadelphia
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Thomas Fitzsimons, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=G1I98048Q3397.39158&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=&term=&index=.GW&aspect=Keyword&term=&index=.AW&term=&index=.TW&term=&index=.SW&term=&index=.FW&term=&index=.OW&term=88320093&index=.NW&x=9&y=10#focus| accessdate= June 8, 2011}}</ref><ref>http://dcmemorials.com/index_indiv0006547.htm</ref>
+}}{{public art row  
+| subject = [[Five Spouts, Frog and Lintel]]
+| image =   Lintel Philly.jpg
+| artist =  [[Unknown (Javanese)]]
+| date =    1100
+| location =    Columbus at Dock Street
+| coordinates = <small>{{coord|39.9443|-75.1416|region:US|name=Spouts, Frog and Lintel}}</small>
+| material =    Volcanic rock sculptures with granite bases.
+| dimensions =  
+| notes =   IAS PA000616<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!332500~!0</ref><ref>http://www.philart.net/art.php?id=695</ref><ref>http://www.fpaa.org/intl_garden.html</ref>
+}}
+{{public art row    
+| subject = Benjamin Franklin - Craftsman
+| image =   Franklin1.JPG
+| artist =  [[Joe Brown (sculptor)]]
+| date =    1981
+| location =    Broad Street & John F. Kennedy Boulevard 
+| coordinates = <small>{{coord|39.9537|-75.1635|region:US|name=Benjamin Franklin - Craftsman}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  10&nbsp;ft
+| notes =   
+}}
+{{public art row    
+| subject =Don Diego de Gardoqui
+| image = Diego de Gardoqui by Sanguino Philly.JPG 
+| artist =  Luis    Sanguino
+| date =    1977
+| location = Logan Circle, Benjamin Franklin Parkway
+| coordinates = <small>{{coord|39.9581|-75.1693|region:US|name= Gardoqui}}</small>
+| material =    Bronze sculpture, stone base
+| dimensions = 8 ft. x 32 in. x 30 in.
+| notes =   [http://siris-artinventories.si.edu/ipac20/ipac.jsp?term=PA001088&index=.NW#focus IAS PA001088]
+}}
+{{public art row    
+| subject = [[The Gates of Hell]]
+| image =   Rodins Gates Philly.JPG
+| artist =  {{sortname| Auguste|Rodin}}
+| date =    1880
+| location =    [[Rodin Museum]]<br>[[Benjamin Franklin Parkway]]
+| coordinates = <small>{{coord|39.9616|-75.1743|region:US|name=Rodin Museum}}</small>
+| material =    Bronze sculpture
+| dimensions =  
+| notes =   IAS PA001090<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338003~!0#focus</ref>
+}}{{public art row  
+| subject = [[Government of the People (Lipchitz)]]
+| image =   Lipshitz 1976 Philly.JPG
+| artist =  {{sortname| Jacques|Lipchitz}}
+| date =    1975
+| location = Municipal Service Building 
+| coordinates = <small>{{coord|39.9538|-75.1640|region:US|name=Government of the People}}</small>
+|material =     Bronze with concrete and stone base
+|dimensions =   
+|notes =    IAS 77001300<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12100~!0#focus</ref>
+}}{{public art row  
+| subject = Grizzly
+| image =   
+| artist =  [[Eric Berg]]
+| date =    1983
+| location =    [[Fitler Square, Philadelphia, Pennsylvania|Fitler Square]], 24th & Pine Streets
+| coordinates = <small>{{coord|39.9477|-75.1801|region:US_type:landmark|name=Grizzly}}</small>
+| material =    Bronze statue, red granite base 
+| dimensions =  24 x 12 x 36 in
+| notes =   IAS PA001085<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13Y832362A46W.12876&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!337998~!13&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=eric+berg&index=.AW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+}}{{public art row  
+| subject = [[Samuel Gross (Calder)]]
+| image =   Samuel D Gross LOC 00109v (cropped).jpg
+| artist =  {{sort|Calder, Alexander Stirling|[[Alexander Stirling Calder]]}}
+| date =    1897
+| location =    [[Thomas Jefferson University]]
+| coordinates = <small>{{coord|39.9494|-75.1580|region:US|name=Samuel Gross (Calder)}}</small> 
+| material =    Bronze statue on red marble pedestal
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject = [[The Ideal Scout]]
+| image =   Boy Scout Statue Philly.JPG
+| artist =  {{sort|McKenzie,R. Tait|[[R. Tait McKenzie]]}}
+| date =    1937
+| location =    Bruce S. Marks Scout Resource Center<br>22nd & Winter Streets
+| coordinates = <small>{{coord|39.9590|-75.1752|region:US|name=Ideal Scout}}</small>
+| material =    Bronze
+| dimensions =  
+| notes =   [[Cradle of Liberty Council]], [[Boy Scouts of America]]
+}}{{public art row  
+| subject = Irish Famine Memorial
+| image =   Irish famine memorial philadelphia 01.jpg
+| artist =  [[Glenna Goodacre]]
+| date =    2003
+| location =    [[Penn's Landing]], south of Chestnut Street
+| coordinates = <small></small>
+| material =    Bronze
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject = [[Justice (De Lue)]]
+| image =   Justice Highsmith De Lue 02448u.jpg
+| artist =  {{sortname| Donald|De Lue}}
+| date =    1940
+| location =    [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates =  <small>{{coord|39.95145|-75.15545|region:US|name=Law and Justice}}</small>
+| material =    Granite relief
+| dimensions =  
+| owner = [[U.S. General Services Administration]]
+| notes =   <ref name="ReferenceA">http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!20495~!0#focus</ref>
+}}
+{{public art row    
+| subject =  [[Keys to Community]]
+| image =   KeysToCommunity.jpg
+| artist =   {{sort|Peniston,James|[[James Peniston]]}}
+| date =     2007
+| location =     [[Girard Fountain Park]], 325 Arch Street
+| coordinates = <small>{{Coord|39.952414|-75.146301|name=Gen. McClellan}}</small>
+| material =     Bronze
+| dimensions =   9 feet tall
+| owner = City of Philadelphia 
+| notes =    <ref name="fpaa">{{cite web | last = | first = | authorlink = | coauthors = | title = Keys to Community | work = | publisher = Fairmount Park Art Association | date = | url = http://www.fpaa.org/child/KeysToCommunity.html | doi = | accessdate = July 19, 2011}}</ref>
+}}
+{{public art row    
+| subject = [[Kopernik (Talcott)]]
+| image = Kopernik Philly 1.JPG
+| artist ={{sort|Talcott, Dudley|[[Dudley Talcott]]}}
+| date = 1973
+| location = 18th Street and [[Benjamin Franklin Parkway]]
+| coordinates = {{Coord|39.9567|-75.1685|name=Kopernik}}
+| material = Stainless steel with red granite base
+| dimensions = 144 in. high, 192 in. diameter; base 140 in. high, 96 in. diameter
+| owner = City of Philadelphia 
+| notes = IAS 88320135<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307330~!2 SIRIS IAS 88320135]</ref>
+}}
+{{public art row    
+| subject = [[Law (De Lue)]]
+| image =   Highsmith De Lue Law 02449u.jpg
+| artist =  {{sortname| Donald|De Lue}}
+| date =    1940
+| location =    [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates = <small>{{coord|39.95145|-75.15545|region:US|name=Law and Justice}}</small>
+| material =    Granite relief
+| dimensions =  
+| owner = [[U.S. General Services Administration]]
+| notes =   <ref name="ReferenceA"/>
+}}{{public art row  
+| subject =  [[Joseph Leidy]]
+| image =    Academy of Natural Sciences, Philadelphia - IMG 7400.JPG
+| artist =   {{sort|Murray,Samuel|[[Samuel Murray]]}}
+| date =     1907
+| location =     [[Academy of Natural Sciences]], [[Logan Circle (Philadelphia)|Logan Circle]]
+| coordinates =  <small></small>
+| material =     Bronze
+| dimensions =   
+| notes =   
+}}{{public art row  
+| subject = [[Lion Crushing a Serpent (Barye)]]
+| image =   Lion Snake Rittenhs Sq.jpg
+| artist =  {{sortname| Antoine Louis|Barye}}
+| date =    1832, cast 1889-1891
+| location =    [[Rittenhouse Square]]
+| coordinates = <small>{{coord|39.9493|-75.1718|region:US|name=Rittenhouse Square}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS PA000020<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14951~!0#focus</ref>
+}}{{public art row  
+| subject = LOVE Statue
+| image =   Philadelphia5580.JPG
+| artist =  {{sort|Indiana,Robert|[[Robert Indiana]]}}
+| date =    1976<br>(installed 1978)
+| location =    [[LOVE Park]]
+| coordinates = <small>{{Coord|39.9543|-75.1657|region:US_type:landmark|name=LOVE Park}}</small>
+| material =    
+| dimensions =  
+| owner =   City of Philadelphia
+| notes = 
+}}{{public art row  
+| subject =  ''[[Mail Delivery (Amateis)|Mail Delivery]]'' <br />(South - Cane Cutter - One of Four)
+| image =    NixFedBuildingPhillyMailSouth.jpg
+| artist =   {{sort|Amateis,Edmond|[[Edmond Amateis]]}}
+| date =     1941
+| location =     [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates =  <small>{{coord|39.95145|-75.15545|region:US|name=Mail Delivery - South}}</small>
+| material =     Granite
+| dimensions =   108 x 120 in.
+| owner = [[General Services Administration]]
+| notes =    <ref>{{cite web | author=SIRIS | title=Mail Delivery (South - Cane Cutter - One of Four) | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!328080~!1&ri=5| accessdate= June 15, 2011}}</ref>
+}}{{public art row  
+| subject =  ''[[Mail Delivery (Amateis)|Mail Delivery]]''<br />(North - Eskimo - One of Four)
+| image =    NixFedBldgBasReliefMail2.jpg
+| artist =   {{sort|Amateis,Edmond|[[Edmond Amateis]]}}
+| date =     1941
+| location =     [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates =  <small>{{coord|39.95145|-75.15545|region:US|name=Mail Delivery - North}}</small>
+| material =     Granite
+| dimensions =   108 x 120 in.
+| owner =  [[General Services Administration]]
+| notes =    <ref>{{cite web | author=SIRIS | title=Mail Delivery (North - Eskimo - One of Four) | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!19618~!2&ri=5| accessdate= June 15, 2011}}</ref>
+}}{{public art row  
+| subject =  ''[[Mail Delivery (Amateis)|Mail Delivery]]'' <br />(East - Eastern Mailman - One of Four)
+| image =    NixFedBldgPhilaMailBas1.jpg
+| artist =   {{sort|Amateis,Edmond|[[Edmond Amateis]]}}
+| date =     1941
+| location =     [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates =  <small>{{coord|39.95145|-75.15545|region:US|name=Mail Delivery - North}}</small>
+| material =     Granite
+| dimensions =   108 x 120 in.
+| owner = [[General Services Administration]]
+| notes =    <ref>{{cite web | author=SIRIS | title=Mail Delivery (East - Eastern Mailman - One of Four) | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!328081~!3&ri=5| accessdate= June 15, 2011}}</ref>
+}}{{public art row  
+| subject =  ''[[Mail Delivery (Amateis)|Mail Delivery]]'' <br />(West -Cowboy - One of Four)
+| image =    Courthouse Cowboy.jpg
+| artist =   {{sort|Amateis,Edmond|[[Edmond Amateis]]}}
+| date =     1941
+| location =     [[Robert N.C. Nix, Sr. Federal Building]]
+| coordinates =      <small>{{coord|39.95145|-75.15545|region:US|name=Mail Delivery - North}}</small>
+| material =     Granite
+| dimensions =   108 x 120 in.
+| owner = [[General Services Administration]]
+| notes =    <ref>{{cite web | author=SIRIS | title=Mail Delivery (East - Eastern Mailman - One of Four) | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!328082~!4&ri=5| accessdate= June 15, 2011}}</ref>
+}}{{public art row  
+| subject =  [[General George B. McClellan (Ellicott)]]
+| image =    George McClellan statue.jpg
+| artist =   {{sort|Ellicott,Henry Jackson|[[Henry Jackson Ellicott]]}}
+| date =     1891
+| location =     [[Philadelphia City Hall|City Hall]], North Plaza 
+| coordinates =  <small>{{coord|39.9532|N|75.1636|W|region:US|name=Gen. McClellan}}</small>
+| material =     Bronze
+| dimensions =   14&nbsp;ft. 6 in. x 5&nbsp;ft. x 15&nbsp;ft.
+| owner = City of Philadelphia
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=General George McClellan, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=J3075426922C7.1400&menu=search&aspect=subtab37&npp=50&ipp=20&spp=20&profile=ariallimg&ri=&term=McClellan&index=.GI&x=10&y=13&aspect=subtab37&term=Henry+Jackson+Ellicott&index=.AX&term=&index=.SI| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = [[William McKinley, (Konti)]]
+| image =   Billy Mac Philly City Hall.jpg
+| artist =  {{sortname| Isidore|Konti}}
+| date =    1908
+| location =    [[Philadelphia City Hall|City Hall]], Southeast Plaza
+| coordinates = <small>{{coord|39.9517|-75.1633|region:US|name=William McKinley}}</small>
+| material =    Bronze figures with Stony Creek red granite base
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject =  [[General George G. Meade (Calder)]]
+| image =    <!-- image goes here -->
+| artist =   {{sort|Calder,Alexander Milne|[[Alexander Milne Calder]]}}
+| date =     1881
+| location =     [[Philadelphia City Hall|City Hall]]<ref name="generalmeadesociety.org">http://generalmeadesociety.org/project.html</ref>
+| coordinates =      <small></small>
+| material =     Bronze
+| dimensions =   11&nbsp;ft. 6 in. x 6&nbsp;ft. x 12&nbsp;ft
+| onwer = City of Philadelphia 
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=General George G. Meade, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=P3087L7O07948.2961&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15615~!9&ri=7&aspect=Browse&menu=search&ipp=20&spp=20&staffonly=&term=Calder,+Alexander+Milne,+1846-1923,+sculptor.&index=AUTHOR&uindex=&aspect=Browse&menu=search&ri=7#focus| accessdate= June 8, 2011}}</ref><ref>http://www.archive.org/details/unveilingofeques00fair</ref><ref>http://www.philart.net/artist.php?id=35</ref>
+}}{{public art row  
+| subject =  [[Centre Square#Art|Milord la Chamarre]]
+| image =    <!-- image goes here -->
+| artist =   {{sort|Dubuffet,Jean|[[Jean Dubuffet]]}}
+| date =     1976
+| location =     [[Centre Square]]
+| coordinates =  <small>{{coord|39|57|7|N|75|9|58|W|region:US|name=Clothespin}}</small>
+| material =     Stainless steel
+| dimensions =   24&nbsp;ft. tall
+| owner = CommonWealth REIT
+| notes =    <ref name="Holcomb"/><ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Milord la Chamarre, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=E31484057159H.4812&profile=ariall&uri=link=3100011~!276696~!3100001~!3100002&aspect=Browse&menu=search&ri=2&source=~!siartinventories&term=Centre+Square+Building%2C+Philadelphia%2C+Pennsylvania&index=OWNER | accessdate= August 31, 2011}}</ref>
+}}{{public art row  
+| subject = [[Francisco de Miranda (Gonzalez)]]
+| image = Miranda Philly public art.JPG  
+| artist =  {{sort|Gonzalez, Lorenzo|[[Lorenzo Gonzalez]]}}
+| date =     1977
+| location =     Logan Circle
+| coordinates =  <small>{{coord|39.9581|-75.1693|region:US|name=Miranda}}</small>
+| material =     Bronze
+| dimensions = 125 in. height
+| owner = City of Philadelphia
+| notes =[http://siris-artinventories.si.edu/ipac20/ipac.jsp?term=PA001092&index=.NW&x#focus IAS PA001092]
+}}
+{{public art row    
+| subject =  [[Robert Morris (Bartlett)]]
+| image =    Bob Morris Indy Mall.jpg
+| artist =   {{sort|Bartlett,Paul Wayland|[[Paul Wayland Bartlett]]}}
+| date =     1923
+| location =     [[Second Bank of the United States]], 4th & Walnut Streets
+| coordinates =  <small>{{coord|39.9474|-75.1479|region:US|name=Robert Morris}}</small>
+| material =     Bronze
+| dimensions =   120 x 48 x 48
+| owner = National Park Service
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Robert Morris, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1QP7650652O19.13051&profile=ariallimg&source=~!siartinventories&view=subscriptionsummary&uri=full=3100013~!15669~!0&ri=5&aspect=subtab37&menu=search&ipp=20&spp=20&staffonly=&term=morris+philadelphia&index=.GI&uindex=&aspect=subtab37&menu=search&ri=5| accessdate= June 8, 2011}}</ref>
+}}
+{{public art row    
+| subject = [[William Penn (Calder)]]
+| image =   Al Milne Calder w Billy.jpg
+| artist =  {{sortname| Alexander Milne|Calder}}
+| date =    1888
+| location =    On top of [[Philadelphia City Hall|City Hall]] (Broad & Market Streets)
+| coordinates = <small>{{Coord|39.9526|-75.1636|region:US_type:landmark|name=Wm Penn at City Hall}}</small> 
+| material =    Bronze sculpture
+| dimensions =  
+| notes =   IAS 77001305<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!12105~!0#focus</ref>
+}}{{public art row  
+| subject = General Galusha Pennypacker
+| image =   Galusha Pennypacker statue close.jpg
+| artist =  {{sort|Grafly,Charles|[[Charles Grafly]]}}<br>completed by {{sortname| Albert|Laessle}}
+| date =    1934
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]], in front of Family Courts Building
+| coordinates =<small>{{Coord|39.9586|-75.1697|region:US_type:landmark|name=Pennypacker}}</small>
+| material =    Bronze
+| dimensions =  156 x 89 x 89 in
+| notes =   IAS 75009258<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=J328662R267S5.51012&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15581~!3&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=galusha&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+}}{{public art row  
+| subject = [[Dr. William Pepper (Bitter)]]
+| image =   Wm Pepper FLP 1899.JPG
+| artist =  {{sortname| Karl|Bitter}}
+| date =    1894
+| location =    Free Library of Philadelphia
+| coordinates =     
+| material =    Bronze figure with granite base
+| dimensions =  
+| notes =   IAS 76005149<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!16300~!0#focus Dr. William Pepper (Bitter)]</ref>
+}}{{public art row  
+| subject = [[Evelyn Taylor Price Memorial Sundial]]
+| image =   Sunflower dial Rittenhs Sq.jpg
+| artist =  {{sortname| Beatrice|Fenton}}
+| date =    1947
+| location =    [[Rittenhouse Square]]
+| coordinates = <small>{{coord|39.9493|-75.1718|region:US|name=Rittenhouse Square}}</small> 
+| material =    Bronze with granite base
+| dimensions =  
+| notes =   IAS 75009327<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15639~!0#focus</ref>
+}}
+{{public art row    
+| subject =  [[Religious Liberty (Ezekiel)]]
+| image =    Religious Liberty Philly 1876.JPG
+| artist =   {{sort|Ezekiel, Moses Jacob|[[Moses Jacob Ezekiel]]}}
+| date =     1876
+| location =     [[Independence Mall (Philadelphia)|Independence Mall]]
+| coordinates = <small>{{coord|39|57|11|N|75|9|49|W|region:US|name=Religious Liberty}}</small>
+| material = Marble, granite base
+| dimensions = 144 x 90 x 64 in.
+| owner = [[National Museum of American Jewish History]]
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Religious Liberty (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!21034~!0#focus}}</ref>}}
+{{public art row    
+| subject = [[General John Fulton Reynolds (Rogers)]]
+| image =  Reynolds fighting City Hall.JPG 
+| artist =   {{sort|Rogers,John H.|[[John H. Rogers]]}}
+| date =     1883
+| location =     [[Philadelphia City Hall|City Hall]]
+| coordinates =      <small>{{coord|39|57|11|N|75|9|49|W|region:US|name=City Hall}}</small>
+| material =     Bronze
+| dimensions =   15 x 5 x 5&nbsp;ft
+| owner = City of Philadelphia 
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=The Smith Memorial: Major General John Fulton Reynolds, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&limitbox_1=LO01+%3D+ias&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=16&source=%7E%21siartinventories&index=.GW&term=John+Fulton+Reynolds+Rogers&aspect=Keyword&x=13&y=15#focus| accessdate= June 8, 2011}}</ref><ref>http://www.archive.org/details/unveilingofstatu00reyn</ref><ref>http://dcmemorials.com/index_indiv0006529.htm</ref>
+}}
+{{public art row    
+| subject =  Frank Rizzo
+| image =    Zenos Frudakis Frank Rizzo.jpg
+| artist =   {{sort|Frudakis,Zenos|[[Zenos Frudakis]]}}
+| date =     1998
+| location =     Municipal Services Building, 1400 John F. Kennedy Boulevard
+| coordinates =      <small></small>
+| material =     Bronze
+| dimensions =   10&nbsp;ft
+| owner = City of Philadelphia
+| notes =    
+}}{{public art row  
+| subject =  Monument to Scottish Immigrants
+| image =    Monument to Scottish Immigrants.jpg
+| artist =   Terry Jones
+| date =     2011
+| location =     [[Penn's Landing]], south of Chestnut Street.
+| coordinates =  <small>{{coord|39|56.85|0|N|75|8.53|0|W|region:US|name=Monument to Scottish Immigrants}}</small>
+| material =     Bronze
+| dimensions =  
+| notes =    Given by The St. Andrews Society of Philadelphia.
+}}{{public art row  
+| subject = Shakespeare Memorial
+| image =   ShakespeareMemorialASC.jpg
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1923-26
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]], in front of [[Free Library of Philadelphia]]
+| coordinates =     <small></small>
+| material =    Bronze
+| dimensions =  
+| owner = City of Philadelphia
+| notes =   <ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!16531~!0#focus</ref><ref>http://siris-juleyphoto.si.edu/ipac20/ipac.jsp?&profile=all&source=~!sijuleyphotos&uri=full=3100001~!127066~!0#focus</ref>
+}}{{public art row  
+| subject = [[Swann Memorial Fountain]]<br>Delaware
+| image =   Swann Fountain Delaware.JPG
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1924
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]]
+| coordinates =     <small>{{coord|39.9580|-75.1708|region:US|name=Swan Fountain}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| owner = City of Philadelphia 
+| notes =   <br />Fairmount Park Commission<ref name=swann>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12095~!0#focus SIRIS Swann Memorial Fountain]</ref>
+}}{{public art row  
+| subject = [[Swann Memorial Fountain]]<br>Schuylkill Girl
+| image =   Swann Fountain-27527-3.jpg
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1924
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]]
+| coordinates = <small>{{coord|39.9580|-75.1708|region:US|name=Swan Fountain}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| owner = City of Philadelphia 
+| notes =   <br />Fairmount Park Commission<ref name=swann/>
+}}{{public art row  
+| subject = [[Swann Memorial Fountain]]<br>Wissahickon Girl 
+| image =   Swann Fountain-27527-2.jpg
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1924
+| location =    [[Logan Circle (Philadelphia)|Logan Circle]]
+| coordinates =     <small>{{coord|39.9580|-75.1708|region:US|name=Swan Fountain}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| owner = City of Philadelphia 
+| notes =   <br />Fairmount Park Commission<ref name=swann/>
+}}{{public art row  
+| subject = [[The Thinker]]
+| image =   Philly Thinker.JPG
+| artist =  {{sortname| Auguste|Rodin}}
+| date =    1902
+| location =    [[Rodin Museum]]<br>[[Benjamin Franklin Parkway]]
+| coordinates =     <small>{{coord|39.9616|-75.1743|region:US|name=Rodin Museum}}</small>
+| material =    Bronze sculpture, limestone base
+| dimensions =  
+| notes =   IAS PA001089<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&full=3100001~!338002~!0#focus SIRIS IAS PA001089]</ref>
+}}
+{{public art row    
+| subject = Three-Way Piece Number 1: Points
+| image =   
+| artist =  Henry Moore
+| date =    1964
+| location =    The Benjamin Franklin Parkway between 16th and 17th Streets
+| coordinates = 
+| owner = [[Association for Public Art]]<ref>http://associationforpublicart.org/interactive-art-map/three-way-piece-number-1-points</ref>   
+| material =    Bronze sculpture, black granite base
+| dimensions = 6 ft. 4 in. x 7 ft. x 7 ft.  
+| notes = [http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307306~!65 IAS 88320111]
+}}
+{{public art row    
+| subject = [[Tomb of the Unknown Revolutionary War Soldier]]
+| image =   Tomb of the Unknown Revolutionary War Soldier-27527.jpg
+| artist =  Copy of {{sort|Houdon,Jean Antoine|[[Jean Antoine Houdon]]}}'s ''George Washington'' (1790)
+| date =    1954-57
+| location =    [[Washington Square (Philadelphia)|Washington Square]]
+| coordinates =     <small>{{coord|39.9469|-75.1524|region:US|}}</small>
+| material =    Bronze sculpture, limestone base
+| dimensions =  
+| notes =   [[Independence National Historical Park]]
+}}
+
+{{public art row    
+| subject =[[Triune (Engman)]]
+| image = Tiune Engman.JPG
+| artist = {{sort|Engman, Robert|[[Robert Engman]]}}
+| date = 1974
+| location = [[Center Square (Philadelphia)|Center Square]]
+| coordinates =     <small></small>
+| material =    Bronze sculpture, concrete base
+| dimensions =  
+| notes = [http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!12104~!0#focus IAS 77001304]
+}}
+{{public art row    
+| subject = [[Voyage of Ulysses (von Schlegell)]]
+| image =   Highsmith Ulysses 02460v.jpg
+| artist =  {{sortname| David|von Schlegell}}
+| date =    1975
+| location =    Front plaza, James A. Byrne U.S. Courthouse<br>601 Market St.
+| coordinates =     <small>{{coord|39.9519|-75.1505|region:US|name=Voyage of Ulysses}}</small>
+| material =    Stainless steel sculpture, ceramic and stone base
+| dimensions =  
+| owner = [[U.S. General Services Administration]]
+| notes =   <br/>IAS 75002779<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!5130~!0#focus</ref>
+}}{{public art row  
+| subject = John Wanamaker, Citizen
+| image =   John Wanamaker Citizen Philly.jpg
+| artist =  {{sort|Rhind,John Massey|[[John Massey Rhind]]}}
+| date =    
+| location =    [[Philadelphia City Hall|City Hall]], Northeast Plaza
+| coordinates = {{Coord|39.9527|-75.1627|region:US_type:landmark|name=Wanamaker at City Hall}}
+| material =    Bronze
+| dimensions =  
+| notes =   
+}}{{public art row  
+| subject =  [[George Washington (Bailly)]]
+| image =    Washington Indy Hall.jpg
+| artist =   {{sort|Bailly,Joseph A.|[[Joseph A. Bailly]]}}
+| date =     Original marble: 1869<br>Bronze replica: 1910
+| location =     Original marble: Conversation Hall, [[Philadelphia City Hall]]<br>Bronze replica: [[Independence Hall]]
+| coordinates =      <small>{{coord|39.9491|-75.1500|region:US|name=Independence Hall}}</small>
+| material =     Original: Marble<br>Replica: Bronze
+| dimensions =   102 x 31 x 31 in.
+| owner = National Park Service
+| notes =    <ref name="autogenerated2">{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=George Washington, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=G3078K59377G0.32279&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=&term=&index=.GW&x=9&y=3&aspect=Keyword&term=&index=.AW&term=&index=.TW&term=&index=.SW&term=&index=.FW&term=&index=.OW&term=75009321+&index=.NW| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject =  [[Eakins_Oval#The_Washington_Monument|George Washington Monument (Siemering)]]
+| image =    GW Philly Buffalo.JPG
+| artist =   {{sort|Siemering,Rudolf|[[Rudolf Siemering]]}}
+| date =     1897
+| location =     [[Eakins Oval]], opposite Philadelphia Museum of Art
+| coordinates =  <small>{{coord|39|57|50.29|N|75|10|44.74|W|region:US|name=George Washington Monument}}</small>
+| material =     Bronze
+| dimensions =   528 in
+| owner = City of Philadelphia 
+|notes =     <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=George Washington Monument, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=P3087L7O07948.2961&profile=ariall&uri=link=3100006~!207201~!3100001~!3100002&aspect=Browse&menu=search&ri=9&source=~!siartinventories&term=Siemering%2C+Rudolf%2C+1835-1905%2C+sculptor.&index=AUTHOR#focus| accessdate= June 8, 2011}}</ref><ref>http://www.waymarking.com/waymarks/WMAM48_George_Washington_Monument_Philadelphia_PA</ref>
+}}{{public art row  
+| subject = [[Washington Grays Monument]]
+| image =   Union Club Philly Statue 2.jpg
+| artist =  {{sortname| John|Wilson | John Wilson (sculptor) }}
+| date =    1908
+| location =     [[Union League of Philadelphia|The Union League]], 140 South Broad Street
+| coordinates =      <small>{{coord|39.9500|-75.1644|region:US|name=Union League}}</small>
+| material =     Bronze
+| dimensions =  
+| notes =   IAS 75009304 <ref name="philart.net"/><ref>{{cite web| url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1AC8115349968.37361&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=2&source=~!siartinventories&index=.GW&term=washington+grays+monument&x=6&y=10&aspect=Keyword| title=Washington Grays Monument, (sculpture).| publisher=Save Outdoor Sculpture, Pennsylvania, Philadelphia survey|year= 1993| accessdate=October 10, 2011}}</ref>
+}}{{public art row  
+| subject = J. William White Memorial Drinking Fountain
+| image =   Rittenhouse Square - autumn - IMG 6548.JPG
+| artist =  [[R. Tait McKenzie]]
+| date =    1921
+| location =    [[Rittenhouse Square]]
+| coordinates = <small>{{coord|39.9493|-75.1718|region:US|name=Rittenhouse Square}}</small>
+| material =    Limestone, bronze relief bust & basin
+| dimensions =  
+| notes =   
+}}
+{{public art footer}}
+
+===Fairmount Park and Schuylkill River===
+Including Philadelphia Museum of Art, East Fairmount Park, Laurel Hill Cemetery, West Fairmount Park, and Philadelphia Zoo.
+{{Public art header}}   
+{{Public art row    
+| subject = [[Anteater (Mitchell)]]
+| image =   
+| artist =  {{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+| date =    1966
+| location =    
+| coordinates =     
+|material =     Bronze sculpture
+|dimensions =   
+|notes =    IAS 46200011<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292911~!0</ref>
+}}{{public art row  
+| subject =  [[Abraham Lincoln (Rogers)]]
+| image =    Lincoln 1871 Fairmount.jpg
+| artist =   {{sort|Rogers, Randolph|[[Randolph Rogers]]}}
+| date =     1871
+| location =     Kelly Drive and Sedgely Drive
+| coordinates = <small>{{coord|39|58|11|N|75|11|4|W|region:US| name=Abraham Lincoln (Rogers)}}</small>
+| material =     Bronze
+| dimensions =   9&nbsp;ft. 6 in. x 48 in. x 96 in
+| owner = City of Philadelphia
+| notes =    <ref>{{cite web | year= | title=Philadelphia Public Art | publisher=philart.net | url=http://www.philart.net/artist.php?id=197| accessdate= June 8, 2011 }}</ref><ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Lincoln, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=J3108VO381461.23707&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!21688~!95&ri=2&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=rogers,+randolph&index=.AW&uindex=&aspect=Keyword&menu=search&ri=2&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref><ref>http://www.fpaa.org/child/map_39_rog_lin.html</ref><ref>http://dev.fpaa.org/interactive-art-map/abraham-lincoln</ref>
+}}{{public art row  
+| subject = [[Alexander Von Humboldt (Drake)]]
+| image =   Philly Humboldt.jpg
+| artist =  {{sort| Drake, Friedrich|[[Friedrich Drake]]}}
+| date =    1871
+| location =    Martin Luther King Drive South of Black Road.
+| coordinates = <small>{{coord|39.9823|-75.2059|region:US|name=Von Humboldt}}</small>
+| material =    Bronze sculpture, granite base with stone pavers
+| dimensions =  
+| notes =   IAS 75009305<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15619~!0</ref><ref>http://www.philart.net/art.php?id=5&PHPSESSID=910d5d423e84ca2e9246de5dd4a62447</ref>
+}}{{public art row  
+| subject = [[The Amazon (Kiss)]]
+| image =   Amazon PMA.JPG
+| artist =  {{sortname| August|Kiss}}
+| date =    1837, 1929 copy
+| location =    East entrance [[Philadelphia Museum of Art]]
+| coordinates =     <small>{{coord|39.9651|-75.1804|region:US|name=Amazon (Kiss)}}</small>
+| material =    Bronze sculpture  with limestone base
+| dimensions =  
+| notes =   IAS PA000011<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14491~!0</ref>
+}}{{public art row  
+| subject =  [[Anthony Wayne, (Gregory)]]
+| image =    Anthony-wayne-philadelphia.jpg
+| artist =   {{sort|Gregory,John|[[John Gregory (sculptor)|John Gregory]]}}
+| date =     1937
+| location =     [[Philadelphia Museum of Art]]
+| coordinates =  <small>{{coord|39|57.884|N|75|10.856|W|region:US|name=Anthony Wayne (Gregory)}}</small>
+| material =     Gilded Bronze
+| dimensions =   130 1/2 x 54 x 46 in
+| owner = City of Philadelphia
+| notes =[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15591~!1&ri=28#focus IAS 75009274] <ref>http://dcmemorials.com/index_indiv0006554.htm</ref><ref>http://www.waymarking.com/waymarks/WMAM47_Anthony_Wayne_Philadelphia_PA</ref><ref>http://www.flickr.com/photos/chrisinphilly5448/463339858/</ref>
+}}{{public art row  
+| subject = Young Meher ([[List of Armenian Genocide memorials|Armenian Genocide Memorial]])
+| image =   Philadelphia Museum of Art - Armenian Genocide memorial.jpg
+| artist =[[Koren Der Harootian]]
+| date = 1976
+| location = east of the [[Philadelphia Museum of Art]]
+| coordinates =<small>{{coord|39.9666|-75.1799|region:US|name=Armenian Genocide Memorial}}</small>
+| material = Bronze sculpture, red granite base 
+| dimensions = 168 x 70 x 120 in.   
+| notes =   [http://siris-artinventories.si.edu/ipac20/ipac.jsp?term=PA000041&index=.NW&x#focus IAS PA000041]
+}}{{public art row  
+| subject = [[Art (Mueller)]]
+| image =   
+| artist =  {{sortname| Augustus Max Johannes|Mueller}}
+| date =    1876
+| location =    [[Memorial Hall (Philadelphia)|Memorial Hall]], southwest corner
+| coordinates =     
+| material =    Zinc sculpture, painted white, lead coated copper base
+| dimensions =  
+| notes =   IAS PA000161<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315649~!0</ref>
+}}{{public art row  
+| subject = [[Aspiration (Frishmuth)]]
+| image =   Berwind 1 LH Philly.JPG
+| artist =  {{sortname| Harriet Whitney|Frishmuth}}
+| date =    1933
+| location =    [[Laurel Hill Cemetery]]<br>central section
+| coordinates = <small>{{coord|40.0007|-75.1892|region:US|name=Aspiration}}</small>
+| material =    Vermont granite sculpture
+| dimensions =  
+| notes =   IAS 88320096<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307291~!0</ref>
+}}{{public art row  
+| subject = [[Atmosphere and Environment XII]]
+| image =   Atmos n Environ XII.JPG
+| artist =  {{sortname| Louise|Nevelson}}
+| date =    1970
+| location =    West porch of <br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9660|-75.1818|region:US|name=Atmosphere and Environment XII}}</small>
+| material =    Cor-Ten steel sculpture
+| dimensions =  
+| notes =   IAS PA000013<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14492~!0</ref><ref>http://www.philart.net/art.php?id=31</ref><ref>http://all-art.org/art_20th_century/nevelson1.html</ref>
+}}{{public art row  
+| subject = [[Bear and Her Cub (Greenberg)]]
+| image =   Zoo bear and cub.JPG
+| artist =  {{sortname| Joseph J.|Greenberg}}
+| date =    1957
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9718|-75.1952|region:US|name=Bear and Her Cub}}</small>
+| material =    Black Coopersburg granite
+| dimensions =  
+| notes =   IAS 46200007<ref name="ReferenceB">http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292907~!0</ref>
+}}{{public art row  
+| subject = [[Bishop Matthew Simpson]]
+| image =   Bishop on Belmont Philly.JPG
+| artist =  Unknown
+| date =    1896
+| location =    Belmont Avenue & Edgeley Road
+| coordinates = <small>{{coord|39.9946|-75.2179|region:US|name=Bishop Matthew Simpson}}</small>
+| material =    Bronze sculpture with granite base
+| dimensions =  
+| notes =   IAS 88320064<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307259~!0</ref>
+}}{{public art row  
+| subject = [[Catholic Total Abstinence Union Fountain]]
+| image =   Moses Tea Fountain Philly.jpg
+| artist =  {{sortname| Herman|Kirn}}
+| date =    1876
+| location =    Avenue of the Republic & States Street
+| coordinates = <small>{{coord|39.9824|-75.2196|region:US|name=Moses Fountain}}</small>
+| material =    Marble sculptures with granite bases
+| dimensions =  
+| notes =   IAS 75009303<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15617~!0#focus</ref>
+}}{{public art row  
+| subject = [[Chief Justice John Marshall]]
+| image =   Marshall PMA Philly.JPG
+| artist =  {{sortname| William Wetmore|Story}}
+| date =    1883
+| location =    [[Philadelphia Museum of Art]], West entrance
+| coordinates = <small>{{coord|39.9665|-75.1822|region:US|name=John Marshall}}</small>
+| material =    75 x 51 x 77 1/2
+| dimensions =  Bronze sculpture with granite base
+| notes =   IAS PA000014<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15589~!0#focus</ref>
+}}{{public art row  
+| subject = [[Coiled Snake (Ben-Shmuel)]]
+| image =   Zoo Philly Coiled Snake.JPG
+| artist =  {{sortname| Ahron|Ben-Shmuel}}
+| date =    1940
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9729|-75.1970|region:US|name=Coiled Snake}}</small>
+| material =    Diorite sculpture
+| dimensions =  
+| notes =   IAS 75009334<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15646~!0#focus</ref>
+}}{{public art row  
+| subject =  [[Cowboy (Remington)]]
+| image =    Philly Remington 1908.JPG
+| artist =   {{sort|Remington,Frederic|[[Frederic Remington]]}}
+| date =     1908
+| location =     Kelly Drive
+| coordinates =  <small>{{coord|39|58|34.68|N|75|11|33.18|W|region:US|name=Cowboy (Remington)}}</small>
+| material =     Bronze
+| dimensions =   144 in. W. 131 in
+| owner = City of Philadelphia 
+| notes =    <br />Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Cowboy, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15603~!28&ri=22&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=Cowboy+by+Frederic+Remington&index=.GW&uindex=&aspect=Keyword&menu=search&ri=22&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref><ref>http://www.visitphilly.com/music-art/philadelphia/cowboy/</ref><ref>http://www.ushistory.org/districts/fairmountpark/remin.htm</ref><ref>http://www.artbronze.com/thecowboybyfredericremington.aspx</ref><ref>http://www.sportsantiques.com/remingtonstatue.htm</ref>
+}}{{public art row  
+| subject = [[Dying Lioness (Wolff)]]
+| image =   Dying lioness Philly Zoo.JPG
+| artist =  {{sortname| Wilhelm|Wolff}}
+| date =    1873
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9492|-75.1724|region:US|name=Dying Lioness}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS 75009330<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13N7586G1876D.531&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=1&source=~%21siartinventories&index=.GW&term=Dying+Lioness+&x=12&y=3&aspect=Keyword</ref>
+}}{{public art row  
+| subject =  [[Fountain of the Sea Horses]]
+| image =    Sea Horse Fountain Fairmount.jpg
+| artist =   {{sort|Unterberger,Christoph|[[Christoph Unterberger]] 1732-1798}}
+| date =     1926 replica of ca. 1740 sculpture 
+| location =     Waterworks Dr. in Fairmount Park near the Azalea Garden 
+| coordinates =  <small>{{coord|39.9675|-75.1837|region:US|name=Fountain of the Sea Horses}}</small>
+| material =     Italian travertine.
+| dimensions =   128 in. Diameter 336 in.
+| owner = City of Philadelphia 
+| notes =    <br />Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= 1740| title=Fountain of the Sea Horses, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1307V487EN837.12817&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=3&source=~%21siartinventories&index=.GW&term=Sea+Horse+Fountain+philadelphia&x=8&y=5&aspect=Keyword| accessdate= June 8, 2011}}</ref><ref>http://www.ushistory.org/districts/fairmountpark/fount.htm</ref><ref>http://philadelphia.about.com/library/gallery/blkelly_drive3.htm</ref><ref>http://www.belocal.net/philadelphia/sights/the_fountain_of_the_sea_horses/seite_1,63630,2,70895.html</ref>
+}}{{public art row  
+| subject = [[Frank Furness Gateway]]
+| image =   Furness Gate LH Philly.JPG
+| artist =  {{sortname| Frank|Furness}} attributed
+| date =    1876
+| location =    Kelly Dr. and Strawberry Mansion Bridge Dr.
+| coordinates = <small>{{coord|39.9955|-75.1917|region:US|name=Furness Gateway}}</small>
+| material =    Brown Connecticut sandstone
+| dimensions =  
+| notes =   IAS 75009289<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15605~!0#focus</ref>
+}}{{public art row  
+| subject = [[Franz Schubert (Baerer)]]
+| image =   Schubert Hort Center Philly.JPG
+| artist =  {{sortname| Henry|Baerer}}
+| date =    1891
+| location =    West [[Fairmount Park]]<br>east of Horticultural Hall
+| coordinates = <small>{{coord|39.9836|-75.2091|region:US|name=Franz Schubert}}</small>
+| material =    Bronze sculpture with limestone base and granite with bronze plaque
+| dimensions =  
+| notes =   IAS 75009315<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15629~!0#focus</ref>
+}}{{public art row  
+| subject = Frederick Graff Memorial, (sculpture)
+| image =   Graff Memorial Philly.JPG
+| artist =  Unknown
+| date =    1844
+| location =    Water works near Art Museum Dr.
+| coordinates = <small>{{coord|39.9656|-75.1833|region:US|name=Graff Memorial}}</small>
+| material =    Marble on a granite base
+| dimensions =  
+| notes =   IAS 88320030<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307225~!0#focus</ref>
+}}{{public art row  
+| subject = [[General Casimir Pulaski (Waugh)]]
+| image =   Pulaski PMA Philly 2.JPG
+| artist =  {{sortname| Sidney|Waugh}}
+| date =    1947
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9668|-75.1824|region:US|name=Casimir Pulaski}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS 88320088<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307283~!0#focus</ref>
+}}{{public art row  
+| subject = [[General Peter Muhlenberg (Schweizer)]]
+| image =   Peter Muhlenburg PMA Philly.JPG
+| artist =  {{sortname| J. Otto|Schweizer}}
+| date =    1910
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9666|-75.1820|region:US|name=Peter Muhlenberg}}</small>
+| material =    Bronze sculpture, Barre granite base
+| dimensions =  
+| notes =   IAS 88320068<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307263~!0#focus</ref>
+}}{{public art row  
+| subject = [[General Marquis de Lafayette (Josset)]]
+| image =   Lafayette PMA.JPG
+| artist =  {{sortname| Raoul|Josset}}
+| date =    1947
+| location =    
+| coordinates =     
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS 75009275<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15592~!0#focus</ref>
+}}{{public art row  
+| subject =  [[General Ulysses S. Grant (French)]]
+| image =    US Grant French 1.JPG
+| artist =   {{sort|French,Daniel Chester|[[Daniel Chester French]]}} & [[Edward Clark Potter]]
+| date =     1898
+| location =     Kelly Drive
+| coordinates =  <small>{{coord|39.9807|-75.1980|region:US|name=U.S. Grant (French)}}</small>
+| material =     Bronze
+| dimensions =   174 in
+| owner = City of Philadelphia 
+| notes =    <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=General Ulysses S. Grant, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15601~!1&ri=20&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=General+Ulysses+S.+Grant+French+&index=.GW&uindex=&aspect=Keyword&menu=search&ri=20&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref><ref>http://www.visitphilly.com/music-art/philadelphia/general-ulysses-s.-grant/</ref><ref>http://exhibit.juncanoo.com/p/tour-3--boathouse-row-and-kelly-drive/35--general-ulysses-s--grant--1897-/</ref>
+}}{{public art row  
+| subject = [[General Frederich Von Steuben (Wheelock)]]
+| image =   Steuben calls taxi PMA.JPG
+| artist =  {{sortname| Warren|Wheelock}}
+| date =    1947
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9672|-75.1829|region:US|name=Steuben}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS 88320110<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307305~!0#focus</ref>
+}}{{public art row  
+| subject =  |[[Giant 3-way Plug (Cube Tap)]]<br>
+| image =
+| artist =   {{sort|Oldenburg,Claes|[[Claes Oldenburg]]}}
+| date =     1970
+| location =     West entrance [[Philadelphia Museum of Art]]
+| coordinates =  <small></small>
+| material =     [[Weathering steel|Cor-Ten]] and stainless steel
+| dimensions =   117 x 78 x 58&nbsp;inches
+| notes =    [http://www.philamuseum.org/collections/permanent/312790.html?mulR=31179|3 PMA]
+}}{{public art row  
+| subject = [[Goethe (Manger)]]
+| image =   Goethe Philly Hort Center.JPG
+| artist =  {{sortname| Heinrich|Manger}}
+| date =    1889
+| location =    West [[Fairmount Park]], near Horticultural Center
+| coordinates = <small>{{coord|39.9837|N|75.2120|W|region:US|name=Goethe}}</small>
+| material =    Bronze sculpture, bronze upper base:, granite lower base
+| dimensions =  
+| notes =   IAS 75009316<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15630~!0#focus</ref>
+}}{{public art row  
+| subject = [[Hippo Mother and Baby (Mitchell)]]
+| image =   Hippo n Baby P Zoo.JPG
+| artist =  {{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+| date =    1955
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9713|-75.1945|region:US|name=Hippo Mother and Baby}}</small>
+| material =    Bronze sculptures
+| dimensions =  
+| notes =   IAS 75009337<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15649~!0#focus</ref>
+}}{{public art row  
+| subject =     Hudson Bay Wolves
+| image =   Hudson Wolves Kemeys.JPG
+| artist =  {{sort|Kemeys,Edward|[[Edward Kemeys]]}}
+| date =    1872<br>Relocated 1973
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9707|-75.1945|region:US|name=Hudson Bay Wolves}}</small>
+| material =    Bronze sculpture, granite base
+| dimensions =  50 x 82 x 58 in.
+| notes =   IAS 75009331<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=A3R65797Y3738.42146&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15643~!141&ri=3&aspect=Browse&menu=search&ipp=20&spp=20&staffonly=&term=Kemeys,+Edward,+1843-1907,+sculptor.&index=AUTHOR&uindex=&aspect=Browse&menu=search&ri=3#focus</ref>
+}}{{public art row  
+| subject = [[Impala Fountain]]
+| image =   Zoo Philly Impala Fountain.JPG
+| artist =  {{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+| date =    1962
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9736|-75.1961|region:US|name=Impala Fountain}}</small>
+| material =    Bronze sculpture, black granite base and pool
+| dimensions =  
+| notes =   IAS 75009339<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15651~!0#focus</ref>
+}}{{public art row  
+| subject =  [[Iroquois (di Suvero)]]
+| image =    
+| artist =   {{sort|Suvero, Mark di|[[Mark di Suvero]]}}
+| date =     1983
+| location =     Kelly Drive near 24th Street, north of [[Philadelphia Museum of Art]]
+| coordinates =  <small>{{coord|39.9650|-75.1780|region:US|name=Iroquois (di Suvero)}}</small>
+| material =     Painted Steel
+| dimensions =   42'L x 40'H x 31.8" W
+| owner = [[Association for Public Art]] 
+| notes =    <ref>http://associationforpublicart.org/interactive-art-map/iroquois</ref>
+}}{{public art row  
+| subject =  [[James Garfield Memorial]]
+| image =    Garfield bust Fairmount.jpg
+| artist =   {{sort|Saint-Gaudens,August|[[Augustus Saint-Gaudens]]}}
+| date =     1895
+| location =     Fairmount Park
+| coordinates =  <small>{{coord|39.9739|-75.1905|region:US|name=Garfield Memorial}}</small>
+| material =     Bronze
+| dimensions =   42 1/2 in
+| owner = City of Philadelphia 
+| notes =    <br />Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Bust of James Garfield, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1QP7650652O19.13051&profile=ariallimg&source=~!siartinventories&view=subscriptionsummary&uri=full=3100013~!15599~!1&ri=22&aspect=subtab37&menu=search&ipp=20&spp=20&staffonly=&term=garfield+philadelphia&index=.GI&uindex=&aspect=subtab37&menu=search&ri=22| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject =  [[Jeanne d'Arc (Frémiet)]]
+| image =    Joan of Arc Philly.jpg
+| artist =   {{sort|Fremiet,Emmanuel|[[Emmanuel Frémiet]]}}
+| date =     1890
+| location =     Philadelphia Museum of Art 
+| coordinates =  <small></small>
+| material =     Gilded Bronze
+| dimensions =   180 x 56 x 86 in
+| owner = City of Philadelphia
+|notes =     <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Jeanne d'Arc, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1QP7650652O19.13051&menu=search&aspect=subtab37&npp=50&ipp=20&spp=20&profile=ariallimg&ri=35&source=~%21siartinventories&index=.GI&term=philadelphia+joan+arc&x=0&y=0&aspect=subtab37| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = [[John B. Kelly (Rosin)]]
+| image =   JB Kelly rowing Kelly Dr 1.JPG
+| artist =  {{sortname| Harry|Rosin}}
+| date =    1965
+| location =    Kelly Dr. by rowing grandstands
+| coordinates = <small>{{coord|39.9861|-75.2018|region:US|name=John B. Kelly}}</small>
+| material =    Bronze sculpture, granite on brick base
+| dimensions =  57 x 34 in
+| notes =   IAS 75009292<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15608~!0#focus</ref>
+}}{{public art row  
+| subject = [[John Witherspoon (Bailly)]]
+| image =   Witherspoon Hort Center.JPG
+| artist =  {{sort|Bailly,Joseph Alexis|[[Joseph A. Bailly]]}}
+| date =    1876
+| location =    Horticultural Center
+| coordinates =     
+| material =    Bronze
+| dimensions =  
+| notes =   IAS 76004907<ref name=SIRISWitherspoon>{{cite web|title=John Witherspoon|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&uri=full=3100001~!15849~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 21, 201}}</ref>
+}}{{public art row  
+| subject = [[Joseph Haydn (sculpture)]]
+| image =   Haydn Philly.JPG
+| artist =  Idusch and Son
+| date =    1906
+| location =    
+| coordinates =     
+| material =    Bronze
+| dimensions =  
+| notes =   IAS 75009319<ref name=Haydn>{{cite web|title=Joseph Haydn|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&uri=full=3100001~!15633~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 21, 201}}</ref>
+}}{{public art row  
+| subject = [[Law, Prosperity, and Power (French)]]
+| image =   Law PnP French Philly.JPG
+| artist =  {{sort|French,Daniel Chester|[[Daniel Chester French]]}}
+| date =    1880
+| location =    [[Mann Center]], [[Fairmount Park]]
+| coordinates = <small>{{coord|39.9844|-75.2233|region:US|name=Law, Prosperity, and Power}}</small>
+|material =     Marble sculpture, concrete base
+|dimensions =   
+|notes =    IAS 75009306<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15620~!0#focus</ref>
+}}{{public art row  
+| subject = [[Henry Charles Lea Monument]]
+| image =   HC Lea grave LH Philly.jpg
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1911
+| location =    [[Laurel Hill Cemetery]]<br>north section
+| coordinates = <small>{{coord|40.0042|-75.1902|region:US|name=Law, Prosperity, and Power}}</small>
+|material =     Bronze sculpture
+|dimensions =   
+|notes =    IAS 88320018<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307213~!0#focus</ref>
+}}{{public art row  
+| subject = [[Mother and Twins Monument (Saunders)]]
+| image =   Mom n Twins 2 Philly.JPG
+| artist =  {{sortname| Henry Dmochowski|Saunders}}
+| date =    1857
+| location =    [[Laurel Hill Cemetery]]<br>south section
+| coordinates = <small>{{coord|39.9980|-75.1906|region:US|name=Mother and Twins}}</small>
+|material =     Marble sculpture
+|dimensions =   
+|notes =    IAS 71500542<ref name=Twins>{{cite web|title=Mother and Twins Monument|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&uri=full=3100001~!354453~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 22, 2012}}</ref>
+}}{{public art row  
+| subject = [[Night (Stauch)]]
+| image =   Night Hort Center Philly.JPG
+| artist =  {{sortname| Edward|Stauch}}
+| date =    1872
+| location =    
+| coordinates =     
+|material =     Bronze 
+|dimensions =   
+|notes =    IAS 88320029<ref name=Night>{{cite web|title=Night (Stauch)|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&uri=full=3100001~!307224~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 22, 2012}}</ref>
+}}{{public art row  
+| subject = [[Old Mortality, His Pony, and Sir Walter Scott]]
+| image =   Old Mortality LH Philly.JPG
+| artist =  {{sortname| James|Thom| James Thom (sculptor)}}
+| date =    1836
+| location =    [[Laurel Hill Cemetery]]<br>north section
+| coordinates = <small>{{coord|40.0042|-75.1880|region:US|name=Old Mortality}}</small>
+|material =     Limestone and plaster 
+|dimensions =   
+|notes =    IAS 88320016<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307211~!0#focus</ref>
+}}{{public art row  
+| subject = [[The Lion Fighter (Wolff)]]
+| image =   Lion killer PMA.JPG
+| artist =  {{sortname| Albert|Wolff| Albert Wolff (sculptor)}}
+| date =    1858
+| location =    East entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9649|-75.1809|region:US|name=Lion Fighter}}</small>
+|material =     Bronze sculpture, limestone base
+|dimensions =   
+|notes =    IAS 75009271<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15588~!0#focus</ref>
+}}{{public art row  
+| subject = [[Lioness Carrying to Her Young a Wild Boar]]
+| image =   Zoo Lioness with boar.JPG
+| artist =  {{sortname| Auguste|Cain}}
+| date =    1880
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9716|-75.1961|region:US|name=Philadelphia Zoo}}</small>
+| material =    Bronze sculpture, Quincy granite base
+|dimensions =   
+|notes =    IAS 75009332<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15644~!0#focus</ref>
+}}{{public art row  
+| subject = [[Penguins (Laessle)]]
+| image =   Penguins Philly Zoo.JPG
+| artist =  {{sortname| Albert|Laessle}}
+| date =    1917
+| location =    [[Philadelphia Zoo]]
+| coordinates =     
+|material =     Bronze sculpture, green marble base
+|dimensions =   
+|notes =    IAS 75009333<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15645~!0#focus</ref>
+}}{{public art row  
+| subject = [[Pegasus (Pilz)]]
+| image =   R winged horse 2 Philly.jpg
+| artist =  {{sortname| Vincenz|Pilz}}
+| date =    1863
+| location =    Two sculptures flanking the entrance of [[Memorial Hall (Philadelphia)|Memorial Hall]]
+| coordinates = <small>{{coord|39|58|45|N|75|12|35|W|region:US|name=Memorial Hall}}</small>
+|material =     Bronze sculptures with stone bases
+|dimensions =   
+|notes =    IAS PA000012<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14496~!0#focus</ref><ref>[http://books.google.com/books?id=Tb5Okf_lKFcC&pg=PA115&lpg=PA115&dq=vincent+pilz+sculptor&source=bl&ots=hI2Vngc0NQ&sig=3tfkre_CJ25Mj6nFKJQykPG5E50&hl=en&sa=X&ei=H1jvTuXRBLL4sQLMtszGCQ&ved=0CEsQ6AEwBQ#v=onepage&q=vincent%20pilz%20sculptor&f=false ''Philadelphia's Fairmount Park''], James D. Ristine, Arcadia Publishing, 2005, ISBN 978-0-7385-3794-8</ref>
+}}{{public art row  
+| subject = [[The Pilgrim (Saint-Gaudens)]]
+| image =   Pilgrim Fairmount 2.jpg
+| artist =  {{sortname| Augustus|Saint-Gaudens}}
+| date =    1903
+| location =    Fairmount Park opposite [[Boathouse Row]]
+| coordinates = <small>{{coord|39.9701|-75.1887|region:US|name=Pilgrim (Saint-Gaudens)}}</small>
+|material =     Bronze sculpture, granite and concrete, or fieldstone base
+|dimensions =   
+|notes =    IAS PA000009<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14488~!0#focus</ref>
+}}{{public art row  
+| subject = [[Puma (Zorach)]]
+| image =   Puma Azalea Garden Philly.JPG
+| artist =  {{sortname| William|Zorach}}
+| date =    1954
+| location =    Azalea Garden, [[Fairmount Park]]
+| coordinates = <small>{{coord|39.9678|-75.1828|region:US|name=Puma}}</small>
+|material =     Marble sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320089<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307284~!0#focus</ref>
+}}{{public art row  
+| subject = [[Rebecca at the Well (Boyle)]]
+| image =   Rebecca Well Hort Center Philly.JPG
+| artist =  {{sortname| John J.|Boyle|John J. Boyle (sculptor)}}
+| date =    1908
+| location =    Near the Horticultural Center
+| coordinates =     
+|material =     Bronze
+|dimensions =   
+|notes =    IAS 75009317<ref name=Well>{{cite web|title=Rebecca at the Well (Boyle)|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?&uri=full=3100001~!15631~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 22, 2012}}</ref>
+}}{{public art row  
+| subject = Rocky Statue
+| image =   Rocky Phila Museum of Art.JPG
+| artist =  {{sort|Schomberg,A. Thomas|[[A. Thomas Schomberg]]}}
+| date =    1982
+| location =    [[Philadelphia Museum of Art]]
+| coordinates =     
+|material =     
+|dimensions =   8&nbsp;ft, 6 in
+|notes =    
+}}{{public art row  
+| subject = [[Schiller (Manger)]]
+| image =   Schiller Philly Hort.JPG
+| artist =  {{sortname| Heinrich|Manger}}
+| date =    1885
+| location =    West [[Fairmount Park]], near Horticultural Center
+| coordinates = <small>{{coord|39.9828|-75.2118|region:US|name=Samuel Gross (Calder)}}</small> 
+|material =     Bronze sculpture, granite and stone base
+|dimensions =   
+|notes =    IAS 75009312<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15626~!0#focus</ref>
+}}{{public art row  
+| subject = The Schuylkill Chained<br>Allegorical Figure of The Schuylkill Chained
+| image =   SchuylkillChained.jpg
+| artist =  [[William Rush]]
+| date =    1825<br>1980 cast
+| location =    Original: [[Philadelphia Museum of Art]]<br>Cast: [[Fairmount Water Works]]
+| coordinates = <small></small>
+|material =     Original: wood<br>Cast: fiberglass
+|dimensions =   39-1/2 x 87-1/2 x 26 in
+|notes =    IAS 76007729<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13U84806U968N.26381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!18510~!20&ri=4&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=william+rush&index=.AW&uindex=&aspect=Keyword&menu=search&ri=4#focus]</ref>
+}}{{public art row  
+| subject = The Schuylkill Freed<br>Allegorical Figure of The Waterworks
+| image =   AllegoricalFigureWaterworks.jpg
+| artist =  [[William Rush]]
+| date =    1825<br>1980 cast
+| location =    Original: [[Philadelphia Museum of Art]]<br>Cast: [[Fairmount Water Works]]
+| coordinates = <small></small>
+|material =     Original: wood<br>Cast: fiberglass
+|dimensions =   42 x 86-1/2 x 31-1/2 in
+|notes =    IAS 76007730<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13U84806U968N.26381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!18511~!21&ri=4&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=william+rush&index=.AW&uindex=&aspect=Keyword&menu=search&ri=4#focus]</ref>
+}}{{public art row  
+| subject =  [[Smith Memorial Arch|Smith Memorial Arch: Major General George Gordon Meade, (French)]]
+| image =    
+| artist =   {{sort|French,Daniel Chester|[[Daniel Chester French]]}}
+| date =     1899
+| location =     [[Smith Memorial Arch]], atop south column
+| coordinates =  <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =      Bronze
+|dimensions =    8 x 4 x 3&nbsp;ft
+| owner= City of Philadelphia 
+|notes =     <ref name="generalmeadesociety.org"/><ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=The Smith Memorial: Major General George Gordon Meade, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!329049~!0&ri=18&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=General+George+Gordon+Meade,+French&index=.GW&uindex=&aspect=Keyword&menu=search&ri=18&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref><ref>http://www.philart.net/person.php?id=71</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Major General John Fulton Reynolds]]
+| image =   
+| artist =  {{sortname| Charles|Grafly}}
+| date =    1901
+| location =    [[Smith Memorial Arch]], atop north column
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with granite base
+|dimensions =   
+|notes =    IAS PA000525<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329050~!0#focus</ref>
+}}{{public art row  
+| subject =  [[Smith Memorial Arch|Smith Memorial Arch: Major General George B. McClellan, (Potter)]]
+| image =    Smith arch McClellan.jpg
+| artist =   {{sort|Potter,Edward Clark|[[Edward Clark Potter]]}}
+| date =     1911
+| location =     [[Smith Memorial Arch]], atop south pier
+| coordinates =  <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =      Bronze
+|dimensions =    10 x 4 x 10&nbsp;ft
+| owner = City of Philadelphia 
+|notes =     <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=The Smith Memorial: Major General George B. McClellan, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!329048~!0&ri=26&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=General+George+B.+McClellan+Edward+Clark+Potter&index=.GW&uindex=&aspect=Keyword&menu=search&ri=26&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject =  [[Smith Memorial Arch|Smith Memorial Arch: Major General Winfield Scott Hancock (Ward)]]
+| image =    Smith arch Hancock.jpg
+| artist =   {{sort|Ward,John Quincy Adams|[[John Quincy Adams Ward]]}}
+| date =     1910
+| location =     [[Smith Memorial Arch]], atop north pier
+| coordinates =  <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =      Bronze
+|dimensions =     15 x 7 x 10&nbsp;ft
+| owner =City of Philadelphia 
+|notes =     <ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=The Smith Memorial: Major General Winfield Scott Hancock, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=130C8519I432V.10666&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!18940~!0&ri=24&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=General+Winfield+Scott+Hancock+by+John+Quincy+Adams+Ward,&index=.GW&uindex=&aspect=Keyword&menu=search&ri=24&limitbox_1=LO01+=+ias#focus| accessdate= June 8, 2011}}</ref><ref>http://www.philart.net/person.php?id=46</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Architectural Reliefs]]
+| image =   Smith Memorial Looking Thru South Arch (cropped).jpg
+| artist =  {{sortname| John Massey|Rhind}}
+| date =    1903
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small> 
+|material =     stone
+|dimensions =   
+|notes =    IAS PA000535<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329221~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: James A. Beaver]]
+| image =   Smith arch Beaver.jpg
+| artist =  {{sortname| Katherine M.|Cohen}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture stone base
+|dimensions =   
+|notes =    IAS 76009283<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!20005~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Governor Andrew Gregg Curtin]]
+| image =   Curtin Smith Arch Philly.JPG
+| artist =  {{sortname| Moses Jacob|Ezekiel}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with granite base
+|dimensions =   
+|notes =    IAS PA000532<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329218~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Admiral John A. B. Dahlgren]]
+| image =   Smith arch Dahlgren.jpg
+| artist =  {{sortname| George Edwin|Bissell}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with limestone base
+|dimensions =   
+|notes =    IAS PA000529<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329215~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Major General John Frederick Hartranft]]
+| image =   Hartranft Smith Arch.JPG
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with stone base
+|dimensions =   
+|notes =    IAS PA000528<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329214~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Major General S. W. Crawford]]
+| image =   
+| artist =  {{sortname| Bessie Potter|Vonnoh}}
+| date =    1898
+| location =    
+| coordinates =     <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with stone base
+|dimensions =   
+|notes =    IAS PA000531<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329217~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Admiral David Dixon Porter]]
+| image =   Smith arch Porter.jpg
+| artist =  {{sortname| Charles|Grafly}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with limestone base
+|dimensions =   
+|notes =    IAS PA000527<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329213~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Richard Smith]]
+| image =   Smith arch Smith.jpg
+| artist =  {{sortname| Daniel Chester|French}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with granite base
+|dimensions =   
+|notes =    IAS PA000526<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329051~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: Two Eagles and Globes]]
+| image =   Smith arch eagle.jpg
+| artist =  {{sortname| John Massey|Rhind}}
+| date =    1902
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculptures with granite bases
+|dimensions =   
+|notes =    IAS PA000534<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329220~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: James H. Windrim, Esq.]]
+| image =   Windrim Smith Arch Philly.JPG
+| artist =  {{sortname| Samuel|Murray}}
+| date =    1898
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with granite base
+|dimensions =   
+|notes =    IAS PA000530<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329216~!0#focus</ref>
+}}{{public art row  
+| subject = [[Smith Memorial Arch|Smith Memorial Arch: John B. Gest, Esq.]]
+| image =   Smith arch John B Gest.jpg
+| artist =  {{sortname| Charles|Grafly}}
+| date =    1899
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=Smith Memorial Arch}}</small>
+|material =     Bronze sculpture with stone base
+|dimensions =   
+|notes =    IAS PA000533<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!329219~!0#focus</ref>
+}}{{public art row  
+| subject = [[St. George and the Dragon (sculpture)]]
+| image =   St George and Dragon Philly.JPG
+| artist =  Unknown
+| date =    1876
+| location =    
+| coordinates = <small>{{coord|39|58|39|N|75|12|24|W|region:US|name=St. George Slaying the Dragon}}</small>
+|material =     Bronze sculpture with stone base
+|dimensions =   
+|notes =    IAS PA000008<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14494~!0#focus</ref>
+}}{{public art row  
+| subject =  [[Stone Age in America]]
+| image =    Stone Age America 1887.jpg
+| artist =   {{sort|Boyle,John J.|[[John J. Boyle (sculptor)|John J. Boyle]]}}
+| date =     1887
+| location =     Fairmount Park
+| coordinates =  <small>{{coord|39|58|19.09|N|75|11|24.79|W|region:US|name=Stone age in America}}</small>
+|material =      bronze
+|dimensions =    90 in. Diameter 40 in
+| owner = City of Philadelphia 
+|notes =     <br />Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year=1887 | title=Stone Age in America, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1307V487EN837.12817&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!14952~!0&ri=8&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=stone+age+in+america+philadelphia&index=.GW&uindex=&aspect=Keyword&menu=search&ri=8| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = [[Sundial (Calder)]]
+| image =   AS Calder Sundial Philly.JPG
+| artist =  {{sortname| Alexander Stirling|Calder}}
+| date =    1903
+| location =    
+| coordinates =     
+|material =     Marble figures and sundial table, bronze sundial plate
+|dimensions =   
+|notes =    IAS 75009313<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15627~!0#focus</ref>
+}}{{public art row  
+| subject =  [[The Medicine Man (Dallin)]]
+| image =    Philly Med Man.jpg
+| artist =   {{sort|Dallin,Cyrus|[[Cyrus Dallin]]}}
+| date =     1899
+| location =     W. Dauphin St. and 33rd Street
+| coordinates =  <small>{{coord|39|59|31.2|N|75|11|11.44|W|region:US|name=The Medicine Man (Dallin)}}</small>
+|material =      Bronze
+|dimensions =    8&nbsp;ft.
+| owner = City of Philadelphia
+|notes =     Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=The Medicine Man , (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=P3087L7O07948.2961&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=&term=&index=.GW&aspect=Keyword&term=&index=.AW&term=&index=.TW&term=&index=.SW&term=&index=.FW&term=&index=.OW&term=IAS+75009286+&index=.NW&x=11&y=9#focus| accessdate= June 8, 2011}}</ref><ref>http://www.pbase.com/image/42586726</ref><ref>http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5352795</ref><ref>http://www.bronze-gallery.com/sculptors/artist.cfm?sculptorID=65</ref><ref>http://test.cartermuseum.org/artworks/566</ref><ref>http://dev.fpaa.org/interactive-art-map/the-medicine-man</ref><ref>http://books.google.com/books?id=jl0AAAAAYAAJ&pg=PA780&lpg=PA780&dq=medicine+man+dallin+paris&source=bl&ots=1aDp-Mj9-b&sig=ish7N_mRUOTd-phXp8tntRwMhZI&hl=en&ei=XDsCTt3tDqnm0QH5wKmVDg&sa=X&oi=book_result&ct=result&resnum=3&ved=0CCcQ6AEwAg#v=onepage&q=medicine%20man%20dallin%20paris&f=false</ref>
+}}{{public art row  
+| subject =  [[Thorfinn Karlsefni (Jonsson)]]
+| image =    Thorfinn Karlsefni 1918.jpg
+| artist =   {{sort|Jonsson,Einar|[[Einar Jónsson]]}}
+| date =     1915–1948
+| location =     Fairmount Park 
+| coordinates =  <small>{{coord|39|58|12.72|N|75|11|24.18|W|region:US|name=Thorfinn Karlsefni (Jonsson)}}</small>
+|material =      Bronze
+|dimensions =    84 x 54 x 48 in
+| owner = City of Philadelphia 
+|notes =     Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Thorfinn Karlsefni, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1QP7650652O19.13051&menu=search&aspect=subtab37&npp=50&ipp=20&spp=20&profile=ariallimg&ri=18&source=~%21siartinventories&index=.GI&term=karlsefni+philadelphia&x=0&y=0&aspect=subtab37| accessdate= June 8, 2011}}</ref>
+}}{{public art row  
+| subject = [[Ellen Phillips Samuel Memorial: Settling the Seaboard]]
+| image =   Samuel Memorial Settling 2.JPG
+| artist =  {{sortname| Wheeler|Williams}}
+| date =    1942
+| location =    
+| coordinates =     
+|material =     Limestone relief, granite base
+|dimensions =   
+|notes =    IAS 88320071<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307266~!0#focus</ref>
+}}{{public art row  
+| subject = [[Ellen Phillips Samuel Memorial: Spanning the Continent]]
+| image =   Samuel Memorial Spanning.JPG
+| artist =  {{sortname| Robert|Laurent}}
+| date =    1937
+| location =    
+| coordinates =     
+| material =    Bronze sculpture, granite base
+| dimensions =  
+| notes =   IAS 76006754<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!17573~!0#focus</ref>
+}}{{public art row  
+| subject = [[Ellen Phillips Samuel Memorial: Spirit of Enterprise]]
+| image =   Spirit Enterprise 1.JPG
+| artist =  {{sortname| Jacques|Lipchitz}}
+| date =    1950
+| location = Just west of Kelly Drive   
+| coordinates =<small>{{coord|39.9735|-75.1908|region:US_type:landmark|name=Enterprise (Lipchitz)}}</small> 
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS 75009284<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15600~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Birth of a Nation]]
+| image =   Birth of Nation Fairmount Park.JPG
+| artist =  {{sortname| Henry|Kreis}}
+| date =    1943
+| location =    
+| coordinates =     
+|material =     Limestone relief, granite base
+|dimensions =   
+|notes =    IAS 88320074<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307269~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Immigrant]]
+| image =   Samuel Memorial Immigrant.JPG
+| artist =  {{sortname| Heinz|Warneke}}
+| date =    1933
+| location =    
+| coordinates =     
+|material =     Limestone relief, limestone base
+|dimensions =   
+|notes =    IAS 76008194<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!18958~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Laborer]]
+| image =   Samuel Memorial Laborer.JPG
+| artist =  {{sortname| Ahron|Ben-Shmuel}}
+| date =    1958
+| location =    
+| coordinates =     
+|material =     Granite sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320079<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307274~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Miner]]
+| image =   Samuels Mem Miner.JPG
+| artist =  {{sortname| John Bernard|Flannagan}}
+| date =    1938
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, granite base
+|dimensions =   
+|notes =    IAS 77002764<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!21284~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Ploughman]]
+| image =   Samuel Memorial Ploughman.JPG
+| artist =  {{sortname| J. Wallace|Kelly}}
+| date =    1938
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, limestone base
+|dimensions =   
+|notes =    IAS 88320069<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307264~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Poet]]
+| image =   Samuel Memorial Poet.JPG
+| artist =  {{sortname| Jose|de Creeft}}
+| date =    1956
+| location =    
+| coordinates =     
+|material =     Salisbury pink granite sculpture
+|dimensions =   
+|notes =    IAS 76009459<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!20428~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Preacher]]
+| image =   Samuel Memorial Preacher.JPG
+| artist =  {{sortname| Waldemar|Raemisch}}
+| date =    1952
+| location =    
+| coordinates =     
+|material =     Granite sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320077<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307272~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Puritan]]
+| image =   Samuel Memorial Puritan.jpg
+| artist =  {{sortname| Harry|Rosin}}
+| date =    1942
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320072<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307267~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Quaker]]
+| image =   Samuel Memorial Quaker.jpg
+| artist =  {{sortname| Harry|Rosin}}
+| date =    1942
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, granite base
+|dimensions =   #NAME?
+|notes =    IAS 88320073<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307268~!0#focus</ref>
+}}{{public art row  
+| subject =[[Ellen Phillips Samuel Memorial: The Revolutionary Soldier]]
+| image = Fairmount Revolutionary.JPG
+| artist =  {{sortname| Erwin F.|Frey}}
+| date =    1943
+| location =    
+| coordinates =     
+| material =    Limestone sculpture, granite base
+| dimensions =  
+| notes =   IAS 88320076<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307271~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Scientist]]
+| image =   Samuel Memorial Scientist.JPG
+| artist =  {{sortname| Koren|Der Harootian}}
+| date =    1955
+| location =    
+| coordinates =     
+|material =     Granite sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320078<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307273~!0#focus</ref>
+}}
+{{public art row
+| subject = [[Ellen Phillips Samuel Memorial: The Slave]]
+| image =   Samuel Memorial Slave.JPG
+| artist =  {{sortname| Helene|Sardeau}}
+| date =    1940
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, limestone base
+|dimensions =   
+|notes =    IAS 88320070<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307265~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: The Statesman]]
+| image =   Statesman Fairmount Park.JPG
+| artist =  {{sortname| Erwin F.|Frey}}
+| date =    1943
+| location =    
+| coordinates =     
+|material =     Limestone sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320075<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307270~!0#focus</ref>
+}}{{public art row
+| subject = [[Ellen Phillips Samuel Memorial: Two Bas-Relief Panels Eye and Hand]]
+| image =   Samuels Mem Hand.JPG
+| artist =  {{sortname| J. Wallace|Kelly}}
+| date =    1959
+| location =    
+| coordinates =     
+| material =    Limestone sculptures, limestone bases
+| dimensions =  
+| notes =   IAS PA001131<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338461~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Ellen Phillips Samuel Memorial: Welcoming to Freedom]]
+| image =   Samuel Memorial Welcome.JPG
+| artist =  {{sortname| Maurice|Sterne}}
+| date =    1939
+| location =    
+| coordinates =     
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS PA001132<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338462~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Prometheus Strangling the Vulture (Lipchitz)]]
+| image =   Lipshitz PMA.JPG
+| artist =  {{sortname| Jacques|Lipchitz}}
+| date =    1943–1953
+| location =    East steps of the Philadelphia Museum of Art
+| coordinates = <small>{{coord|39.9656|-75.1810|region:US|name=Prometheus Strangling the Vulture}}</small>
+|material =     Bronze sculpture, limestone base
+|dimensions =   
+|notes =    IAS PA000001<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14546~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Stephen Girard (Rhind)]]
+| image =   Girard PMA.JPG
+| artist =  {{sortname| John Massey|Rhind}}
+| date =    1897
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9663|-75.1823|region:US|name=Stephen Girard}}</small>
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS 76009985<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!21663~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[John Paul Jones (Hancock)]]
+| image =   JP Jones PMA Philly.JPG
+| artist =  {{sortname| Walker|Hancock}}
+| date =    1957
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9670|-75.1827|region:US|name=John Paul Jones }}</small>
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS 88320098<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307293~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Silenus and the Infant Bacchus (sculpture)]]
+| image =   Bacchus as a baby.JPG
+| artist =  Unknown
+| date =    1885
+| location =    Kelly Drive
+| coordinates = <small>{{coord|39.9687|-75.1827|region:US|name=Silenus and the Infant Bacchus }}</small>
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS 75009282<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15598~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Richard Montgomery (Kelly)]]
+| image =   R Montgomery PMA.JPG
+| artist =  {{sortname| J. Wallace|Kelly}}
+| date =    1946
+| location =    Near west entrance<br>[[Philadelphia Museum of Art]]
+| coordinates = <small>{{coord|39.9666|-75.1827|region:US|name=Richard Montgomery }}</small>
+|material =     Bronze sculpture, granite base
+|dimensions =   
+|notes =    IAS 75009276<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15593~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[African Elephant and Calf (Warneke)]]
+| image =   
+| artist =  {{sortname| Heinz|Warneke}}
+| date =    1962
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9716|-75.1961|region:US|name=Philadelphia Zoo}}</small>
+|material =     Norwegian grey Bergan granite sculpture
+|dimensions =   
+|notes =    IAS 75009338<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15650~!0</ref>
+}}
+{{public art row    
+| subject = [[African Plaque (Allen)]]
+| image =   Africa Plaque P Zoo.JPG
+| artist =  {{sortname| Tom Jr.|Allen}}
+| date =    1973
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9716|-75.1961|region:US|name=Philadelphia Zoo}}</small>
+|material =     Plate brass and stainless steel, stone base
+|dimensions =   
+|notes =    IAS 46200001<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292901~!0</ref>
+}}
+{{public art row    
+| subject = [[African Warthog (Berg)]]
+| image =   African Warthog Philly.JPG
+| artist =  {{sortname| Eric|Berg}}
+| date =    1975
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9716|-75.1961|region:US|name=Philadelphia Zoo}}</small>
+|material =     Bronze sculpture
+|dimensions =   
+|notes =    IAS 46200003<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292903~!0</ref>
+}}
+{{public art row    
+| subject = [[Agriculture (Mueller)]]
+| image =   
+| artist =  {{sortname| Augustus Max Johannes|Mueller}}
+| date =    1876
+| location =    
+| coordinates =     
+|material =     Zinc sculpture, painted green
+|dimensions =   
+|notes =    IAS PA000162<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315650~!0</ref>
+}}
+{{public art row    
+| subject = [[Unicorns Were Dancing (Mitchell)]]
+| image =   Unicorns dancing Philly Zoo.JPG
+| artist =  {{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+| date =    1969
+| location =    [[Philadelphia Zoo]]
+| coordinates = <small>{{coord|39.9716|-75.1961|region:US|name=Philadelphia Zoo}}</small>
+|material =     Bronze with gilded bronze horns
+|dimensions =   
+|notes =    IAS 46200012<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292912~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[William Warner Tomb (Calder)]]
+| image =   Warner 2 LH Philly.JPG
+| artist =  {{sortname| Alexander Milne|Calder}}
+| date =    1889
+| location =    [[Laurel Hill Cemetery]]<br>south section
+| coordinates = <small>{{coord|40.0009|-75.1875|region:US|name=Warner Tomb}}</small>    
+|material =     Granite
+|dimensions =   
+|notes =    IAS 88320033<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307228~!0#focus</ref>
+}}
+{{public art row    
+| subject = [[Giuseppe Verdi]] (Ferrari)
+| image =   Verdi Hort Center Philly.JPG
+| artist =  {{sortname| Ettore|Ferrari}}
+| date =    1907
+| location =    
+| coordinates =     
+|material =     Bronze
+|dimensions =   
+|notes =    IAS 75009318<ref name=Verdi>{{cite web|title=Verdi (Ferrari)|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp&uri=full=3100001~!15632~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 22, 2012}}</ref>
+}}
+{{public art row    
+| subject = Western Civilization
+| image =   Pediment, Philly Art Museum (2).jpg
+| artist =  {{sort|Jennewein,C. Paul|[[C. Paul Jennewein]]}}
+| date =    1932
+| location =    [[Philadelphia Museum of Art]]<br>north pediment, courtyard
+| coordinates = <small>{{coord|39|57|51.55|N|75|10|45.30|W|region:US|name=Western Civilization}}</small>
+|material =     Terra cotta
+|dimensions =   144 x 840 in
+|notes =    IAS 75009273<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15590~!212&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=jennewein&index=.AW&uindex=&aspect=Keyword&menu=search&ri=1#focus</ref>
+}}
+{{public art row    
+| subject = [[Wrestlers (sculpture)]]
+| image =   Wrestlers Hort Center.JPG
+| artist =  Unknown
+| date =    antiquity
+| location =     Horticultural Center
+| coordinates =     
+|material =     Bronze
+|dimensions =   
+|notes =    IAS 75009299<ref name=SIRISWrestlers>{{cite web|title=Wrestlers|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!15614~!0|work=Art Inventories Catalog|publisher=Smithsonian American Art Museum|accessdate=March 21, 201}}</ref>
+}}
+{{Public art footer}}
+
+===North and Northeast Philadelphia===
+{|class="wikitable sortable"
+! Title
+! Image
+! Artist
+! Year
+! Location
+! Coordinates
+! Material
+! Dimensions
+! Owner
+|-
+|[[Ashanti Gratitude (Brenner)]]
+|
+|{{sortname| Bernard|Brenner}}
+|1976
+|Mander Playground<br>33rd & Diamond Streets
+|<small>{{coord|39.9889|-75.1875|region:US|name=Ashanti Gratitude}}</small>
+|Steel sculpture, painted red
+|72 x 12 x 12 in
+|IAS PA000417<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!325558~!0</ref>
+|-
+|[[Athlete (Brown)]]
+|
+|[[Joe Brown (sculptor)]]
+|1967
+|Vogt Playground<br> Unruh Avenue & Cottage Street
+|<small>{{coord|40.0283|-75.0490|region:US|name=Athlete (Brown)}}</small>
+|Bronze sculpture, brick base
+|
+|IAS 88320120;<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307315~!0</ref> IAS 75009387<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15698~!0</ref>
+|-
+|Carved relief
+|[[File:Birney School Philly B.JPG|100px]]
+|
+|
+|General David B. Birney Public School, 900 West Lindley Street
+|<small>{{coord|40.145|-75.820|region:US|name=Birney School}}</small>
+|Limestone
+|
+|
+|-
+|[[The Spirit of the American Doughboy]]
+|[[File:OvertheTopPhilly.jpg|100px]]
+|{{sortname| E. M.|Viquesney}}
+|1919
+|2nd & Spring Garden Streets
+|<small>{{coord|39.9608|-75.1413|region:US|name=American Doughboy}}</small>
+|bronze
+|
+|IAS 47260100<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!299219~!0#focus</ref>
+|-
+|}
+
+===Northwest Philadelphia===
+{|class="wikitable sortable"
+! Title
+! Image
+! Artist
+! Year
+! Location
+! Coordinates
+! Material
+! Dimensions
+! Owner
+|-
+|Bull Negative and Bull Positive
+|
+|{{sortname| Filippo|Bermani}}
+|1943
+|[[Woodmere Art Museum]], 9201 Germantown Avenue
+|
+| Cor-Ten steel on steel bases
+|
+|IAS PA000414<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!325555~!0</ref>
+|-
+|Butterfly
+|
+|George Papashvily
+|1964
+|[[Woodmere Art Museum]] garden, 9201 Germantown Avenue
+|<small></small>
+|Sculpture: granite, base: fieldstone
+|19 x 39 x 6-1/2 in
+|IAS 88320127<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!307322~!114&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Civil War Soldiers and Sailors Monument
+|[[File:5500 block Germantown Mkt Sq.JPG|100px]]
+|''Union Soldier'' by John Lachmier<br>Eagles and plaques by [[John Massey Rhind]]<br>[[James H. Windrim]], architect
+|1883
+|Market Square, 5500 Germantown Avenue
+|<small>{{coord|40.034325|-75.172300|region:US|name=Market Square}}</small>
+|Granite statue, granite pedestal & base, bronze eagles & plaques
+|Statue: 114 in<br>Overall: 428 in
+|IAS 88320047<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!307242~!0&ri=3&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=rhind&index=.AW&uindex=&aspect=Keyword&menu=search&ri=3#focus</ref>
+|-
+|Corn Bench
+|
+|Alejandro Lopez
+|1991
+|[[The Village of Arts and Humanities|Village of Arts and Humanities]], 2544 Germantown Avenue
+|<small></small>
+|
+|
+|IAS 74960135<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!360164~!100&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Eagle (World War I Memorial)
+|
+|[[J. Otto Schweizer]]
+|1923
+|Chelten Square, Chelten Avenue & Wister Street
+|<small></small>
+|Eagle: bronze, granite base with bronze medallions & shields
+|Eagle: 30 x 30 x 24 in
+|IAS PA000084<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!315422~!161&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Fountain and Sculpture
+|
+|Jon Bogle
+|1974
+|Nicetown Park, Germantown Avenue & St. Pauls Street
+|<small></small>
+|Sculpture: metal, base: concrete
+|144 x 48 in
+|IAS PA001155<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!338511~!11&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Freedom Corner
+|
+|James Dupree
+|1995
+|Freedom Square, Germantown Avenue & Wister Street
+|<small></small>
+|Painted concrete and cowry shells
+|
+|IAS 74910006<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!358571~!37&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Helical Form
+|
+|William P. Daley
+|1972
+|[[Germantown Friends School]], 31 West Coulter Street
+|<small></small>
+|Sculpture: Tomasil bronze, base: limestone
+|22 x 60 in
+|IAS 75009365<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15677~!29&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Hood Cemetery Gateway
+|[[File:Hood Cemetery Gate HABS PA,51-PHILA,325-1.jpg|100px]]
+|William Johnson, architect<br>William Struthers, mason
+|1849
+|4901 Germantown Avenue
+|
+|
+|
+|HABS<ref>http://memory.loc.gov/cgi-bin/ampage?collId=hhphoto&action=browse&fileName=pa/pa0800/pa0825/photos/browse.db&recNum=0&itemLink=r?ammem/hh:@FIELD(DOCID+@BAND(@lit(PA0825)))&title2=pa%2fpa0800%2fpa0825%2fdata&displayType=1</ref>
+|-
+|Horse
+|
+|Margaret Wasserman Levy
+|1969
+|[[Germantown Friends School]], 31 West Coulter Street
+|<small></small>|
+|Acrylic
+|44 x 46 x 21 in
+|IAS PA000059<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!315080~!96&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Ile Ife Park
+|
+|Lily Yeh
+|1987
+|[[The Village of Arts and Humanities|Village of Arts and Humanities]]. 2544 Germantown Avenue
+|<small></small>
+|ceramic tile, concrete, stone, glass, plants
+|
+|IAS PA001139<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!338469~!249&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Leopardopterus
+| 
+|John Parker
+|1987
+|[[Woodmere Art Museum]] garden, 9201 Germantown Avenue
+|<small></small>
+|
+|108 x 96 x 78 in
+|IAS PA000415<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!325556~!115&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Meditation Park
+|
+|Lily Yeh
+|1991
+|[[The Village of Arts and Humanities|Village of Arts and Humanities]], 2544 Germantown Avenue
+|<small></small>
+|
+|
+|IAS 74960136<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!360165~!248&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Obele Uno (Small House)
+|
+|John Horace Stone<br>Robert Craddock<br>Austino Okafor<br>Simone Leigh
+|1995
+|[[The Village of Arts and Humanities|Village of Arts and Humanities]], 2544 Germantown Avenue
+|<small></small>
+|Painted wood, asphalt, copper sheeting, marble, ceramic
+|
+|IAS 74910018<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!358583~!177&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Henry Melchior Muhlenberg Monument
+|[[File:Muhlenberg Monument.JPG|100px]]
+|{{sort|Schweizer,J. Otto|[[J. Otto Schweizer]]}}
+|1917
+|[[Lutheran Theological Seminary at Philadelphia]]<br>7301 Germantown Avenue
+|<small>{{coord|40.0343|-75.191925|region:US|name=Muhlenberg Monument}}</small>
+|Bronze statue and reliefs, granite base 
+|108 x 180 x 44 in
+|IAS 88320108<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!307303~!5&ri=5&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=schweizer&index=.AW&uindex=&aspect=Keyword&menu=search&ri=5#focus]</ref>
+|-
+||Francis Daniel Pastorius Monument
+|[[File:Pastorius Monument.JPG|100px]]
+|Albert Jaegers
+|1917
+|Vernon Park, 5798 Germantown Avenue
+|<small>{{coord|40.036900|-75.176150|region:US|name=Pastorius Monument}}</small>
+|Tennessee marble, granite base
+|324 x 111 x 141 in
+|IAS 75009363<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15675~!5&ri=7&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=jaegers&index=.AW&uindex=&aspect=Keyword&menu=search&ri=7#focus]</ref>
+|-
+|[[Teedyuscung]]<br>Indian in the Wissahickon
+|
+|{{sort|Rhind,John Massey|[[John Massey Rhind]]}}
+|1902
+|[[Wissahickon Creek]], north of [[Walnut Lane Bridge]]
+|<small>{{coord|40.068234|-75.220326|region:US|name=Teedyuscung}}</small>
+|Marble<br>(replaced 1856 wood statue)
+|144 in
+|IAS 75009308<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15622~!6&ri=3&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=rhind&index=.AW&uindex=&aspect=Keyword&menu=search&ri=3#focus]</ref>
+|-
+|Together Family
+|
+|Ken Clark{{disambiguation needed|date=October 2012}}
+|1977
+|Mount Airy Playground, Germantown Avenue & Sedgwick Street
+|<small></small>
+|Weathering steel
+|60 in x 84 in
+|IAS PA000412<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!325553~!23&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|Vertical Form 89-5
+|
+|Thomas Sternal
+|1989
+|[[Woodmere Art Museum]] garden, 9201 Germantown Avenue
+|<small></small>
+|Steel cage, glacial river rocks
+|108 x 51 x 51 in
+|IAS PA000060<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!315081~!176&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|War Memorial to Mothers
+|
+|Harry Lewis Raul
+|1927
+|Wister's Woods, Belfield Avenue & 21st Street
+|<small></small>
+|Sculpture: bronze, base: granite
+|103 x 74 x 47 in
+|IAS 75009364<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15676~!134&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|John Wister
+|[[File:John Wister 1904 CGHD.JPG|100px]]
+|Raffaello Romanelli
+|1903
+|Vernon Park, 5700 Germantown Avenue
+|<small></small>
+|Sculpture: bronze, base: granite
+|90 x 26 x 26 in
+|IAS 88320066<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132838C483TO6.17381&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!307261~!147&ri=1&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=germantown&index=.GW&uindex=&aspect=Keyword&menu=search&ri=1#focus]</ref>
+|-
+|}
+
+===South Philadelphia===
+{|class="wikitable sortable"
+! Title
+! Image
+! Artist
+! Year
+! Location
+! Coordinates
+! Material
+! Dimensions
+! Owner
+|-
+|[[Awakening (Pierce)]]
+|
+|{{sortname| Ron T.|Pierce}}
+|1971
+|Union Baptist Church garden<br>1910 Fitzwater Street
+|<small>{{coord|39.9427|-75.1742|region:US|name=Awakening}}</small>
+|Bronze sculpture, concrete base
+|58.5 x 22 x 35 in
+|IAS 88320129<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307324~!0</ref>
+|-
+|[[The Batter (Brown)]]
+|[[File:Brown Batter Philly art.JPG|100px]]
+|{{sort|Brown,Joseph|[[Joe Brown (sculptor)]]}}
+|1974
+|Citizens Bank Park
+|<small>{{coord|39.9052|-75.1677|region:US|name=The Batter}}</small>
+|Bronze sculpture; concrete base
+|
+|IAS PA000184<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&full=3100001~!318425~!0 IAS PA000184]</ref>
+|-
+|[[Columbus Monument (Caroni)]]
+|[[File:Columbus Broad St Philly art.JPG|100px]]
+|{{sortname| Emanuele|Caroni}} (attributed)
+|1876
+|Marconi Plaza, Broad and Oregon Streets
+|<small>{{coord|39.9155|-75.1720|region:US|name=Columbus (Caroni)}}</small>
+|Italian marble with stone base
+|
+|IAS PA000620<ref name="ReferenceC">http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!332504~!0#focus</ref>
+|-
+|[[Connie Mack (Rosin)]]
+|[[File:Rosin 1957 Connie Mack.JPG|100px]]
+|{{sortname| Harry|Rosin}}
+|1957
+|[[Citizens Bank Park]]
+|
+|Bronze sculpture with granite base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15683~!0#focus IAS 75009371]
+|-
+|[[Admiral George W. Melville]]
+|[[File:Admiral George W. Melville by Samuel Murray 1923.jpg|100px]]
+|{{sortname| Samuel|Murray}}
+|1923
+|[[Philadelphia Naval Shipyard]]<br>Broad Street & Preble (Intrepid?) Avenue
+|<small>{{coord|39.8962|-75.1758|region:US|name=Admiral George W. Melville}}</small>
+|Bronze sculpture, granite base
+|
+|IAS 88320105<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307300~!0</ref>
+|-
+|[[Play at Second Base (Brown)]]
+|[[File:Brown Play at 2nd Philly art.JPG|100px]]
+|[[Joe Brown (sculptor)]]
+|1976
+|Citizens Bank Park
+|<small>{{coord|39.905|-75.167|region:US|name=Play at 2nd}}</small>
+|Bronze sculpture; concrete base
+|
+|IAS PA000185<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!318426~!0#focus</ref>
+|-
+|[[The Punter (Brown)]]
+|[[File:Brown punter Philly art.JPG|100px]]
+|[[Joe Brown (sculptor)]]
+|1974
+|Citizens Bank Park
+|<small>{{coord|39.90|-75.16|region:US|name=Punter}}</small>
+|Bronze sculpture; concrete base
+|
+|IAS PA000186<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&full=3100001~!318427~!0#focus The Punter (Brown)]</ref>
+|-
+|[[Tackle (Brown)]]
+|[[File:Brown Tackle Philly art.JPG|100px]]
+|[[Joe Brown (sculptor)]]
+|1975
+|Citizens Bank Park
+|<small>{{coord|39.90|-75.16|region:US|name=Tackle}}</small>
+|Bronze sculpture; concrete base
+|H. 132 x W. 108 x Diam. 72 in.
+|IAS PA000187<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!318428~!0#focus</ref>
+|-
+|Turtle
+|
+|[[Eric Berg]]
+|1978
+|Palumbo Recreational Center<br>10th & Fitzwater Streets
+|<small></small>
+|Bronze
+|27 x 36 x 53 in
+|IAS PA000492<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!327962~!4&ri=12&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=eric+berg&index=.AW&uindex=&aspect=Keyword&menu=search&ri=12#focus</ref>
+|-
+|}
+
+===West and Southwest Philadelphia===
+{|class="wikitable sortable"
+! Title
+! Image
+! Artist
+! Year
+! Location
+! Coordinates
+! Material
+! Dimensions
+! Owner
+|- 
+|[[The Alchemist (De Lue)]]
+|[[File:Alchemist Penn.JPG|100px]]
+|{{sortname| Donald|De Lue}}
+|1940
+|[[University of Pennsylvania]]<br>Chemistry Building
+|<small>{{coord|39.950510|-75.192050|region:US|name=Alchemist}}</small>
+|Limestone relief
+|
+|IAS 76009541<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!20509~!0</ref>
+|-
+|[[All Wars Memorial to Penn Alumni]]
+|[[File:All Wars memorial Penn.JPG|100px]]
+|{{sortname| Charles|Rudy}}
+|1951
+|[[University of Pennsylvania]]<br>33rd Street & Smith Walk
+|<small>{{coord|39.9515|-75.1905|region:US|name=All Wars Memorial to Penn Alumni}}</small>
+|Bronze sculptures, granite base
+|
+|IAS 77001620<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12654~!0</ref>
+|-
+|[[Alliance (Day)]]
+|
+|{{sortname| David J.|Day}}
+|1973
+|Pacifico Ford<br>6701 Essington Avenue
+|<small></small>
+|mixed: Sculpture: stainless steel & a rubber tire; Base: concrete & marble
+|120 x 54 x 36 in
+|IAS PA000104<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315442~!0</ref>
+|-
+|[[Atlas X]]
+|
+|{{sortname| Art|Brenner}}
+|1974
+|4509 Island Avenue, near [[Philadelphia Airport]]
+|<small>{{coord|39.8890|-75.2326|region:US|name=Atlas X}}</small>
+|Painted metal sculpture, concrete base
+|
+|IAS PA000158<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315646~!0</ref>
+|-
+|[[The Button (sculpture)]]
+|[[File:WTP A01 youcanlookitup 2.jpg|100px]]
+| {{sort|Oldenburg,Claes|[[Claes Oldenburg]]}}
+|1981
+|[[University of Pennsylvania]], College Green
+|<small>{{coord|39.95222|-75.19369|region:US|name=The Button}}</small>
+|Reinforced aluminum
+|16&nbsp;ft diameter
+|
+|-
+|[[Covenant (Liberman)]]
+|[[File:Covenant Liberman 1976 a.JPG|100px]]
+|{{sortname| Alexander|Liberman}}
+|1975
+|[[University of Pennsylvania]] 39th and Locust Walk
+|<small>{{coord|39.9527|-75.2006|region:US|name=Covenant (Liberman)}}</small>
+|Cor-Ten steel, painted red
+|
+|IAS 77001278<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12081~!0#focus Covenant (Liberman)]</ref>
+|-
+| [[Dickens and Little Nell (Elwell)]]
+| [[File:Dickens and Nell Philly.JPG|100px]]
+| {{sort|Elwell, Francis Edwin|[[Francis Edwin Elwell]]}}
+| 1890
+| [[Clark Park]], [[Spruce Hill, Philadelphia, Pennsylvania|Spruce Hill]]
+| <small>{{coord|39|56|55|N|75|12|34|W|region:US|name=Dickens and Little Nell (Ewell)}}</small>
+| Bronze
+| 144 in. W. 131 in
+| City of Philadelphia <br/>Fairmount Park Commission<ref>{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Dickens and Little Nell, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13138HM73193X.56485&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15621~!4&ri=2&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=charles+dickens&index=.GW&uindex=&aspect=Keyword&menu=search&ri=2&limitbox_1=LO01+=+ias| accessdate= August 14, 2011}}</ref><ref>http://www2.cruzio.com/~varese/dickens/statue.html</ref><ref>{{cite news| url=http://query.nytimes.com/mem/archive-free/pdf?res=F40B14F83B5F1A738DDDAE0994D1405B8385F0D3 | work=The New York Times | title=DICKENS AND LITTLE NELL; THE SCULPTURED MEMORIAL OF THE GREAT AUTHOR. An Art Exhibit at the World's Fals Which Has Attracted Great Attention -- F. Edwin Elwell's Successful Conception -- How the Model of Little Nell Was Obtained -- A Romance of the studio -- An Enthusiastic Reception in England -- What the Soulptor Hopes | date=September 17, 1893}}</ref><br>IAS 75009307<ref>[]</ref>
+|-
+|[[Anthony J. Drexel (Ezekiel)]]
+|[[File:AJDrexelStatue.jpg|100px]]
+|{{sortname| Moses Jacob|Ezekiel}}
+|1904
+|[[Drexel University]]<br>33rd & Market Streets
+|<small>{{coord|39|57|15|N|75|11|13|W|region:US|name=AJ Drexel seated}}</small>
+|Bronze sculpture with marble base
+|66 x 54 x 60 in
+|IAS PA000016<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14457~!0#focus</ref>
+|-
+|[[Anthony Joseph Drexel (Ezekiel)]]
+|[[File:Anthony J. Drexel bust - Drexel University - IMG 7344.JPG|100px]]
+|{{sortname| Moses Jacob|Ezekiel}}
+|1901–1903, ca. Dedicated May 3, 1905.
+|[[Drexel University]]<br>33rd & Market Streets
+|<small>{{coord|39.9541|-75.1897|region:US|name=AJ Drexel bust}}</small>
+|White Carrara marble
+|42 in. 60 in base
+|IAS 77001201<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12004~!0</ref>
+|-
+|Flame
+|[[File:North Hall.JPG|100px]]
+|[[Sherl Joseph Winter]]
+|1968
+|[[Drexel University]]<br>southwest corner, 33rd & Race Streets
+|<small>{{coord|39.958690|-75.189050|region:US|name=Flame Fountain}}</small>
+|Bronze
+|Sculpture: 91 in
+|IAS 77001206<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!12009~!128&ri=10&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=drexel&index=.GW&uindex=&aspect=Keyword&menu=search&ri=10#focus]</ref>
+|-
+| [[Benjamin Franklin (Boyle)]]
+| [[File:BenjaminFranklinCampus.jpg|100px]]
+| {{sort|Boyle,John J.|[[John J. Boyle (sculptor)|John J. Boyle]]}}
+| 1896
+| [[University of Pennsylvania]]<br>Locust Walk in front of College Hall
+| <small>{{coord|39|57|7|N|75|11|37|W|region:US|name=Benjamin Franklin (Boyle)}}</small>
+| Bronze
+| 90 in × 53 in × 59 in
+| IAS 76005268<ref name="autogenerated3">{{cite web | author=Save Outdoor Sculpture, Philadelphia Survey | year= | title=Benjamin Franklin, (sculpture)| work=SIRIS | publisher=Smithsonian Institution | url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1W0780F76K055.28542&menu=search&aspect=Keyword&npp=50&ipp=20&spp=20&profile=ariall&ri=&term=&index=.GW&aspect=Keyword&term=&index=.AW&term=&index=.TW&term=&index=.SW&term=&index=.FW&term=&index=.OW&term=76005268&index=.NW&x=12&y=9#focus| accessdate= June 8, 2011}}</ref>
+|- 
+|[[Benjamin Franklin in 1723]]
+|[[File:Franklin at Penn statue.JPG|100px]]
+|{{sortname| R. Tait|McKenzie}}
+|1914
+|[[University of Pennsylvania]]<br>33rd Street in front of Weightman Hall
+|<small>{{coord|39.9508|-75.1910|region:US|name=Benjamin Franklin (McKenzie)}}</small>
+|Bronze
+|96 x 33 x 41 in
+|IAS 77001605<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12640~!0#focus</ref>
+|-
+|Benjamin Franklin
+|[[File:Campus - BenjaminFranklin002.jpg|100px]]
+|George Lundeen
+|1987
+|[[University of Pennsylvania]]<br>37th Street & Locust Walk
+|<small>{{coord|39.952150|-75.196975|region:US|name=Benjamin Franklin}}</small>
+|Bronze
+|
+|
+|-
+|[[Jerusalem Stabile (Calder)]]
+|[[File:Jerusalem Stabile Calder 1976.JPG|100px]]
+|{{sortname| Alexander|Calder}}
+|1976
+|[[University of Pennsylvania]]
+|<small>{{coord|39.9520|-75.1927|region:US|name=Jerusalem Stabile}}</small>
+|Steel painted orange
+|
+|IAS 77001287<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?&full=3100001~!12090~!0#focus Jerusalem Stabile (Calder)]</ref>
+|-
+|[[King Solomon (Archipenko)]]
+|[[File:King Solomon Archipenko.JPG|100px]]
+|{{sortname| Alexander|Archipenko}}
+|1963, cast 1968
+||[[University of Pennsylvania]]<br>36th Street and Locust Walk
+|
+|Bronze sculpture with stone base
+|
+|IAS PA000024<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315045~!0#focus</ref>
+|-
+|Mario the Magnificent<br>Drexel Dragon
+|
+|[[Eric Berg]]
+|2002
+|[[Drexel University]]<br>southeast corner, 33rd & Market Streets
+|<small>{{coord|39.955400|-75.189325|region:US|name=Mario the Magnificent}}</small>
+|Bronze
+|
+|[[Drexel University]]
+|-
+|[[Newkirk Viaduct Monument]]
+|[[File:Newkirk Viaduct Monument.jpg|100px]]
+|[[Thomas Ustick Walter]]
+|1838
+|Along the [[Northeast Corridor]] right-of-way, just north of the 49th Street Bridge
+|<small>{{coord|39.939455|-75.210619|region:US|name=Newkirk Viaduct Monument}}</small>
+|white marble
+|About 15 feet tall
+|[[Amtrak]]
+|-
+|Peace Symbol<ref>[http://images.search.yahoo.com/images/view;_ylt=A0PDoS1B0yZPjFAAZTmJzbkF;_ylu=X3oDMTA3cnMybzJvBHNsawNpbWc-?back=http%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dpeace%2Bsymbol%2Bphiladelphia%26n%3D30%26ei%3Dutf-8%26y%3DSearch%26fr%3Dchr-hp-psg%26tab%3Dorganic%26ri%3D0&w=480&h=640&imgurl=farm4.static.flickr.com%2F3223%2F2892713875_e0ed38ce6f_z.jpg&rurl=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fhanneorla%2F2892713875%2F&size=227.2+KB&name=Robert+Engman+%E2%80%98Peace+Symbol%E2%80%99+1967%2C+Philadelphia%2C+Pennsylvania&p=peace+symbol+philadelphia&oid=b6e34bb4bc7d800aa9160737d86fb5d0&fr2=&fr=chr-hp-psg&tt=Robert%2BEngman%2B%25E2%2580%2598Peace%2BSymbol%25E2%2580%2599%2B1967%252C%2BPhiladelphia%252C%2BPennsylvania&b=0&ni=160&no=0&tab=organic&ts=&sigr=11ihqao04&sigb=13uuenelp&sigi=11oujc4u9&.crumb=jmdIb/tZWQH Peace Symbol] from Flickr</ref>
+|[[File:Peace symbol Penn Detail.JPG|100px]]
+|[[Robert Engman]]
+|1967
+|[[University of Pennsylvania]]<br>in front of Van Pelt Library
+|<small>{{coord|39.9526|-75.1941|region:US|name=Peace Symbol}}</small>
+|Stainless steel
+|156 x 104 x 3 in
+|IAS <ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13279M8O583Q7.31622&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!315048~!4&ri=6&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=philadelphia&index=.GW&uindex=&oper=&term=engman&index=.AW&uindex=&aspect=Keyword&menu=search&ri=6#focus]</ref>
+|- 
+|Running Free
+|
+|[[Henry Mitchell (sculptor)|Henry Mitchell]]
+|1971
+|[[Drexel University]]<br>near northwest corner, 33rd & Market Streets
+|<small>{{coord|39.956450|-75.190025|region:US|name=Running Free}}</small>
+|Bronze
+|168 x 144 x 168 in
+|IAS PA000017<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=132787T169C72.27581&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!14459~!79&ri=10&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=drexel&index=.GW&uindex=&aspect=Keyword&menu=search&ri=10#focus]</ref>
+|-
+| [[Edgar Fahs Smith]]
+| [[File:Edgar Fahs Smith - IMG 6621.JPG|100px]]
+| {{sort|McKenzie,R.Tait|[[R. Tait McKenzie]]}}
+| 1925-26
+| [[University of Pennsylvania]]<br>34th Street & Smith Walk
+| <small>{{coord|39.9516|-75.1922|region:US|name=Edgar Fahs Smith}}</small>
+| Bronze
+| 70 in
+|IAS 77001607<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13286J5I5J312.46142&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!12642~!341&ri=3&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=mckenzie,+r.+tait&index=.AW&uindex=&aspect=Keyword&menu=search&ri=3#focus]</ref> 
+|-
+|Reverend George Whitefield
+|
+|[[R. Tait McKenzie]]
+|1914-18
+|[[University of Pennsylvania]]<br>Quadrangle, 3700 Spruce Street
+|
+|Bronze sculpture, limestone base
+|96 x 42 x 24 in
+|IAS 77001606<ref>[http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13286J5I5J312.46142&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!12641~!41&ri=3&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=mckenzie,+r.+tait&index=.AW&uindex=&aspect=Keyword&menu=search&ri=3#focus]</ref>
+|-
+|[[No. 3 Williamsburg Series (Engman)]]
+|
+|{{sortname| Robert|Engman}}
+|1963
+|[[University of Pennsylvania]]<br>3812 Walnut Street
+|<small>{{coord|39.9534|-75.1995|region:US|name=No. 3 Williamsburg Series}}</small>
+| Stainless steel sculpture
+|
+|IAS PA000039<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315060~!0</ref>
+|-
+|}
+
+===Unclassified (so far)===
+{|class="wikitable sortable"
+! Title|| Image|| Artist|| Year|| Location|| Coordinates|| Material|| Dimensions|| Owner
+|-
+|[[Bear and Her Cub (Greenberg)]]
+|
+|{{sortname| Joseph J.|Greenberg}}
+|1957
+|zoo
+|
+|Black Coopersburg granite
+|
+|IAS 46200007<ref name="ReferenceB"/>
+|-
+|[[Bear (Jones)]]
+|
+|{{sortname| Dexter|Jones}}
+|1968
+|Columbia Avenue Playground, 11th Street & Cecil B. Moore Avenue, northeast corner
+|{{Coord|39.9781|-75.1524}}
+|Bronze sculpture, concrete base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!327972~!0 IAS PA000502]
+|-
+|[[Beginning of an Adventure (Karhumaa)]]
+|
+|{{sortname| Karl O.|Karhumaa}}
+|1966
+|Conshohocken Avenue & Windemere Street (where?)
+|
+|Bronze on a concrete base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15718~!0 IAS 75009408]
+|-
+|[[Benjamin Banneker (Washington)]]
+|
+|{{sortname| James W.|Washington}}
+|1969
+|Progress Plaza Shopping Center, Broad & Oxford Streets
+|{{Coord|39.9770|-75.1579}}
+|Granite
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307332~!0#focus IAS 88320137]
+|-
+|[[Benjamin Franklin in Fireman's Hat]]
+|
+|{{sortname| Dexter|Jones}}
+|1968
+|Fire Station, Engine #8, Ladder #2, 4th & Arch Streets
+|{{Coord|39.9524|-75.1464}}
+|Aluminum
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!332495~!0#focus IAS PA000611]
+|-
+|[[Bird Form (Stein)]]
+|
+|{{sortname| Jane E.|Stein}}
+|1966
+|Paley Library courtyard
+|{{Coord|39.9810|-75.1545}}
+|Blue marble on a concrete base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307327~!0 IAS 88320132]
+|-
+|[[Bird in Flight (Zubar)]]
+|
+|{{sortname| Marco|Zubar}}
+|1971
+|Ardleigh & Haines Streets
+|{{Coord|40.0523|-75.1647}}
+|Cor-Ten steel set into a concrete walkway
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15679~!0 IAS 75009367]
+|-
+|[[Bird (Kimmelman)]]
+|
+|{{sortname| Harold|Kimmelman}}
+|1970
+|Hellerman & Walker Streets
+|{{Coord|40.0264|-75.0537}}
+|Steel sheet, painted blue; pole, painted pink; concrete base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!325541~!0 IAS PA000400]
+|-
+|[[Bolt of Lightning...Memorial to Ben Franklin]]
+|
+|{{sortname| Isamu|Noguchi}}
+|1933, 1980!
+|
+|
+|metal: steel Sculpture: stainless steel with steel cables; Base: painted steel
+|
+|IAS 66530048<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!309981~!0</ref><ref>http://dev.fpaa.org/interactive-art-map/bolt-of-lightning-a-memorial-to-benjamin-franklin</ref><ref>http://www.flickr.com/photos/wind-watcher/5314773452/</ref><ref>http://www.eyeflare.com/article/bolt-lightning-memorial-philadelphia/</ref><ref>http://fr.fotopedia.com/items/flickr-1389199320</ref>
+|-
+|[[The Boxers (Ben-Shmuel)]]
+|
+|{{sortname| Ahron|Ben-Shmuel}}
+|1937
+|[[Philadelphia Museum of Art]] East court
+|{{Coord|39.9654|-75.1806}}
+|Coopersburg granite on a concrete base
+|H. 61 1/2 in.
+|IAS 88320092<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307287~!0</ref>
+|-
+|[[Boy With Hawk (Parks)]]
+|
+|{{sortname| Charles Cropper|Parks}}
+|1973
+|
+|
+|metal: bronze Sculpture: bronze; Base; brick
+|
+|IAS 76007393<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!18189~!0</ref>
+|-
+|[[Bronze Figure (Lieberman)]]
+|
+|{{sortname| Neil|Lieberman}}
+|1970
+|
+|
+|metal: bronze Sculpture: bronze; Base: brick
+|
+|IAS 75009377<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15689~!0</ref>
+|-
+|[[Bronze Sphere (Ihlenfeld)]]
+|
+|{{sortname| Klaus|Ihlenfeld}}
+|1970
+|
+|
+|metal: bronze Sculpture: bronze; Base: concrete
+|
+|IAS 75009382<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15693~!0</ref>
+|-
+|[[Buddha (unknown)]]
+|
+|Unknown
+|1800
+|
+|
+|stone: Sculpture: stone; Base: concrete
+|
+|IAS PA000132<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315470~!0</ref>
+|-
+|[[Buddha "Siddhartha Gautama" (Nevin)]]
+|
+|{{sortname| Blanche|Nevin}}
+|1900
+|
+|
+|concrete: cement Sculpture: cement with quartz crystals; Base: cement
+|
+|IAS PA000176<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!343971~!0</ref>
+|-
+|[[Burst of Joy (Kimmelman)]]
+|
+|{{sortname| Harold|Kimmelman}}
+|1977
+|(th and Market, NW corner
+|39.9516,-75.1552
+|metal: steel Sculpture: polished stainless steel; Base: polished black granite
+|
+|IAS 77001322 [http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!12118~!0 IAS 77001322]
+|-
+|[[Butterfly (Kimmelman)]]
+|
+|{{sortname| Harold|Kimmelman}}
+|1970
+|
+|
+|Stainless steel; polished black granite base
+|
+|[http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!12124~!0#focus IAS 77001328]
+|-
+|[[Butterfly (Papashvily)]]
+|
+|{{sortname| George|Papashvily}}
+|1964
+|
+|
+|stone: granite Sculpture: granite; Base: fieldstone
+|
+|IAS 88320127<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!307322~!0#focus</ref>
+|-
+|[[Calvary Scene]]
+|
+|Unknown (Italian)
+|1960
+|
+|
+|stone: marble Sculpture: marble; Base: cement
+|
+|IAS PA001166<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!338594~!0#focus</ref>
+|-
+|[[Castalua (Tyler)]]
+|
+|{{sortname| Stella Elkins|Tyler}}
+|1935
+|
+|
+|metal: bronze Sculpture: bronze; Base: red sandstone; Basin: sandstone, carved
+|
+|IAS PA000382<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!325453~!0#focus</ref>
+|-
+|[[Cat and Fish (Francksen)]]
+|
+|{{sortname| Jean Eda|Francksen}}
+|1967
+|
+|
+|concrete: Cast-concrete
+|
+|IAS 75009413<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!15723~!0#focus</ref>
+|-
+|[[Cats (Mitchell)]]
+|
+|{{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+|1974
+|
+|
+|metal: bronze Cats: bronze; Fountain: granite (?)
+|
+|IAS PA000385<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?full=3100001~!325456~!0#focus</ref>
+|-
+|[[Center Device (Van Houten)]]
+|
+|{{sortname| Harold D.|Van Houten}}
+|1993
+|
+|
+|mixed: Concrete and Cor-Ten steel
+|
+|IAS PA000208<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!319332~!0#focus</ref>
+|-
+|[[Center of Mass I]]
+|
+|{{sortname| Ken|Clark| Ken Clark{{disambiguation needed|date=October 2012}}}}
+|1977
+|
+|
+|metal: steel Sculpture: stainless steel, welded; Base: concrete
+|
+|IAS PA000413<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!325554~!0#focus</ref>
+|-
+|[[Central Post (totem)]]
+|
+|{{sortname| Charlie|James}}
+|1850
+|
+|
+|wood: cedar Totem: cedar; Pedestal: stainless steel
+|
+|IAS PA000619<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!332503~!0#focus</ref>
+|-
+|[[Charioteer of Delphi]]
+|
+|Unknown (Greek) (copy after)
+|1977
+|
+|
+|metal: bronze Sculpture: bronze; Base: black marble
+|
+|IAS PA001128<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338406~!0#focus</ref>
+|-
+|[[Charles Allen Smith (Moitz)]]
+|
+|{{sortname| Francis P.|Moitz}}
+|1917
+|
+|
+|stone: granite Granite
+|
+|IAS 75009368<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15680~!0#focus</ref>
+|-
+|[[Charles Custis Harrison LLD]]
+|
+|{{sortname| Frank Lynn|Jenkins}}
+|1925
+|
+|
+|metal: bronze Figure: bronze; Base: limestone
+|
+|IAS 76006522<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!17350~!0#focus</ref>
+|-
+|[[Charles Lennig (Boyle)]]
+|
+|{{sortname| John J.|Boyle|John J. Boyle (sculptor)}}
+|1900
+|South wall of Callege Hall, Penn (W)
+|
+|Bronze bust, granite base
+|
+|IAS 77001625<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12659~!0#focus</ref>
+|-
+|[[Child Care (Greenberg)]]
+|
+|{{sortname| Joseph J.|Greenberg}}
+|1966
+|
+|
+|plastic: Reinforced plastic on a concrete base
+|
+|IAS 75009401<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15711~!0#focus</ref>
+|-
+|[[Children Playing (Pinto)]]
+|
+|{{sortname| Sarala Ruth|Pinto}}
+|1800
+|
+|
+|metal: Sculpture: painted metal; Base: painted metal
+|
+|IAS 75009389<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15700~!0#focus</ref>
+|-
+|[[Children's Hospital Gateposts]]
+|
+|{{sortname| Beatrice|Fenton}}
+|1931
+|
+|
+|stone: limestone Figure: limestone; Base: granite and brick
+|
+|IAS 88320095<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307290~!0#focus</ref>
+|-
+|[[Chimes of Faith]]
+|
+|{{sortname| Hunter|Malpass}}
+|1976
+|
+|
+|metal: steel Arches: stainless steel; Chimes: bronze; Base: concrete
+|
+|IAS PA000127<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315465~!0#focus</ref>
+|-
+|[[Chimpanzee (Greenberg)]]
+|
+|{{sortname| Joseph J.|Greenberg}}
+|1965
+|zoo?
+|
+|Indiana limestone relief
+|
+|IAS 75009340<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15652~!0#focus</ref>
+|-
+|[[Chinese Water Stone (sculpture)]]
+|
+|Unknown
+|1900
+|
+|
+|stone: Greystone
+|
+|IAS 74910004<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!358567~!0#focus</ref>
+|-
+|[[Christopher Columbus (Venditti)]]
+|
+|{{sortname| Antonio|Venditti}}
+|1955
+|
+|
+|metal: bronze Sculpture: bronze; Base: marble
+|
+|IAS PA000166<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315654~!0#focus</ref>
+|-
+|[[City Seal (Jones)]]
+|
+|{{sortname| Dexter|Jones}}
+|1966
+|
+|
+|metal: bronze Gold-leafed bronze bas-relief
+|
+|IAS 75009353<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15665~!0#focus</ref>
+|-
+|[[Civil War Memorial (Tarr)]]
+|
+|{{sortname| H. S.|Tarr}}
+|1865
+|
+|
+|stone: Sculpture: stone; Base: stone
+|
+|IAS PA001084<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!337785~!0#focus</ref>
+|-
+|[[Civil War Memorial (Leach)]]
+|
+|{{sortname| Joseph B.|Leach}}
+|1869
+|
+|
+|metal: bronze Sculpture: bronze; Base: Quincy granite
+|
+|IAS PA001459<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!341383~!0 - focus</ref>
+|-
+|[[Civil War Monument (sculpture)]]
+|
+|Unknown
+|1887
+|
+|
+|stone: granite Sculpture: granite; Base: granite
+|
+|IAS PA000108<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315446~!0#focus</ref>
+|-
+|[[Civil War Soldier (Milmore)]]
+|
+|{{sortname| Martin|Milmore}}
+|1872
+|
+|
+|metal: bronze Sculpture: bronze; Base: granite
+|
+|IAS PA000125<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315463~!0#focus</ref>
+|-
+|[[Civil War Soldiers and Sailors Monument]]
+|
+|Unknown
+|1909
+|
+|
+|stone: granite Sculpture: granite; Base: limestone
+|
+|IAS 88320058<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307253~!0#focus</ref>
+|-
+|[[Civil War Soldiers' Monument (Lachmier)]]
+|
+|{{sortname| John|Lachmier}}
+|1883
+|
+|
+|stone: granite Sculpture: New England granite with capstone of granite from Gettysburg Battlefield; Base: granite; Plaques: bronze
+|
+|IAS 88320047<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307242~!0#focus</ref>
+|-
+|[[Civil War Soldiers & Sailors Memorial (MacNeil)]]
+|
+|{{sortname| Hermon A.|MacNeil}}
+|1921
+|
+|
+|stone: marble Sculpture: Tennessee marble; Base: granite
+|
+|IAS PA000010<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!14490~!0#focus</ref>
+|-
+|[[Civil War Soldiers & Sailors Monument (sculpture)]]
+|
+|Unknown
+|1800
+|
+|
+|
+|
+|IAS 75009309<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15623~!0#focus</ref>
+|-
+|[[Clevenger Memorial Fountain]]
+|
+|Unknown
+|1924
+|
+|
+|metal: bronze Fountain: bronze or copper; Basin: slate
+|
+|IAS PA000476<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!327903~!0#focus</ref>
+|-
+|[[The Climbing Stone (Rockwell)]]
+|
+|{{sortname| Peter|Rockwell}}
+|1990
+|
+|
+|stone: Stone
+|
+|IAS PA000116<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315454~!0#focus</ref>
+|-
+|[[Collab I]]
+|
+|{{sortname| James|Fuhrman}}
+|1975
+|
+|
+|metal: steel Sculpture: Cor-Ten steel
+|
+|IAS PA001119<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338397~!0#focus</ref>
+|-
+|[[Colonial Scene (Kimmelman)]]
+|
+|{{sortname| Harold|Kimmelman}}
+|1976
+|
+|
+|metal: bronze Maybe bronze or brass
+|
+|IAS PA000609<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!332493~!0#focus</ref>
+|-
+|[[Columbus Memorial (Donato)]]
+|
+|{{sortname| Giuseppe|Donato}}
+|1952
+|
+|
+|metal: bronze Bust: bronze (?); Base: stone; Foundation: concrete
+|
+|IAS PA000477<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!327904~!0#focus</ref>
+|-
+|[[Columbus Monument (Caroni)]]
+|
+|{{sortname| Emanuele|Caroni}}
+|1875
+|
+|
+|stone: marble Sculpture: Italian marble; Base: stone
+|
+|IAS PA000620<ref name="ReferenceC"/>
+|-
+|[[Columbus (sculpture)]]
+|
+|Unknown
+|1800
+|
+|
+|stone: marble Marble
+|
+|IAS 75009297<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15613~!0#focus</ref>
+|-
+|[[Commerce: Seated Male Figure]]
+|
+|{{sortname| Alfred|Botteiau}}
+|1930
+|
+|
+|stone: marble Sculpture: marble
+|
+|IAS PA001115<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338393~!0#focus</ref>
+|-
+|[[Commodore John Barry (Murray)]]
+|
+|{{sortname| Samuel|Murray}}
+|1906
+|
+|
+|metal: bronze Sculpture: bronze; Base: granite
+|
+|IAS 75009322<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15636~!0#focus</ref>
+|-
+|[[Compass Rose (Salama)]]
+|
+|{{sortname| David|Salama}}
+|1994
+|
+|
+|mixed: Plastic, sand, epoxy polymer coating
+|
+|IAS 74910014<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!358579~!0#focus</ref>
+|-
+|[[Connectedness (Kralik)]]
+|
+|{{sortname| M. J.|Kralik}}
+|1990
+|
+|
+|metal: steel Sculpture: probably stainless steel, etched and burnished; Foundation: concrete
+|
+|IAS PA000472<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!327899~!0#focus</ref>
+|-
+|[[Cougar (sculpture)]]
+|
+|Unknown
+|1957
+|zoo? Kelly Drive?
+|
+|metal: bronze Sculpture: bronze; Base: stone
+|
+|IAS PA000049<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315070~!0#focus</ref>
+|-
+|[[Courtship (Mitchell)]]
+|
+|{{sortname| Henry|Mitchell| Henry Mitchell (sculptor)}}
+|1958
+|
+|
+|metal: bronze Bronze
+|
+|IAS 77002537<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!21063~!0#focus</ref>
+|-
+|[[Covenant (Liberman)]]
+|
+|{{sortname| Alexander|Liberman}}
+|1975
+|
+|
+|metal: steel Cor-Ten steel, painted red
+|
+|IAS 77001278<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12081~!0#focus</ref>
+|-
+|[[Crispus Attucks (Washington)]]
+|
+|{{sortname| James W.|Washington}}
+|1969
+|18 in.
+|Broad & Oxford streets, Philadelphia, Pennsylvania (N)
+|stone: granite Granite
+|
+| Progress Plaza Shopping Center; IAS 75009414;<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15724~!0#focus</ref> IAS 88320136<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307331~!0#focus</ref>
+|-
+|[[Dancers (Tyler)]]
+|
+|{{sortname| Stella Elkins|Tyler}}
+|1936
+|
+|
+|metal: bronze Sculpture: bronze; Base: bronze
+|
+|IAS PA000379<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!325450~!0#focus</ref>
+|-
+|[[David Reeves (sculpture)]]
+|
+|Unknown
+|1871
+|
+|
+|metal: bronze Sculpture: possibly bronze; Base: stone
+|
+|IAS PA001165<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338593~!0#focus</ref>
+|-
+|[[Decline and Rise (Kimmelman)]]
+|
+|{{sortname| Harold|Kimmelman}}
+|1968
+|
+|
+|metal: steel Sculpture: stainless steel; Base: possibly concrete
+|
+|IAS 88320114<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307309~!0#focus</ref>
+|-
+|[[Dedicated to the American Secretary]]
+|
+|{{sortname| Costantino|Nivola}}
+|1970
+|
+|
+|mixed: Steel reinforced concrete and sand
+|
+|IAS 77001320;<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!12116~!0#focus</ref> IAS 88320115<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307310~!0#focus</ref>
+|-
+|[[Diana (sculpture)]]
+|
+|Unknown
+|1800
+|
+|
+|
+|
+|[[Philadelphia Museum of Art]] IAS 75009267<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=131432T36C8C7.18068&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!15585~!4&ri=4&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=Diana,+(sculpture).+philadelphia&index=.GW&uindex=&aspect=Keyword&menu=search&ri=4&limitbox_1=LO01+=+ias</ref>
+|-
+|[[The Diver (Wood)]]
+|
+|{{sortname| Thomas|Wood| Thomas Wood{{disambiguation needed|date=October 2012}}}}
+|1901
+|
+|
+|stone: granite Sculpture: granite; Base: stone
+|
+|IAS PA000103<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!315441~!0#focus</ref>
+|-
+|[[Dolphin Play Fountain]]
+|
+|{{sortname| Joseph C.|Bailey}}
+|1972
+|
+|
+|plastic: epoxy Epoxy and fiberglass
+|
+|IAS 75009397<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!15708~!0#focus</ref>
+|-
+|[[Dolphins (Barger)]]
+|
+|{{sortname| Raymond Granville|Barger}}
+|1971
+|
+|
+|metal: Sculptures: metal
+|
+|IAS 46200002<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!292902~!0#focus</ref>
+|-
+|[[Don Diego de Gardoqui (Sanguino)]]
+|
+|{{sortname| Luis|Sanguino}}
+|1977
+|
+|
+|metal: bronze Sculpture: bronze; Base: stone
+|
+|IAS PA001088<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!338001~!0#focus</ref>
+|-
+|[[Dr. Samuel Gross (Calder)]]
+|
+|{{sortname| Alexander Stirling|Calder}}
+|1897
+|
+|
+|metal: bronze Sculpture: bronze; Base: granite
+|
+|IAS 76009079;<ref name="siris-artinventories.si.edu">http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!19806~!0#focus</ref> IAS 64860001<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!30352~!0#focus</ref>
+|-
+|[[A Drinking Fountain (Calder)]]
+|
+|{{sortname| Alexander Stirling|Calder}}
+|1900
+|
+|
+|metal: bronze Bronze with green patina; Basin: granite
+|
+|IAS 76005588<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!16478~!0#focus</ref>
+|-
+|[[Drinking-Fountain (sculpture)]]
+|
+|Singer and Talcott
+|1876
+|
+|
+|Limestone
+|
+|AECI 03024654<ref>http://siris-artexhibition.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siaeci&uri=full=3100016~!62550~!0#focus</ref>
+|-
+|[[Drunken Satyr (sculpture)]]
+|
+|Unknown
+|1905
+|
+|
+|metal: bronze Sculpture: bronze
+|
+|IAS 88320063<ref>http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!307258~!0#focus</ref>
+|-
+|}
+
+==References==
+{{Commons category|Public art in Philadelphia}}
+{{reflist|33em}}
+
+[[Category:Lists of public art in the United States|Philadelphia]]
+[[Category:Culture of Philadelphia, Pennsylvania|Public art]]
+
