@@ -13,6 +13,12 @@ use Geo::Coordinates::DecimalDegrees;
 use Moo;
 use Wikipedia::Felcher;
 use Redis;
+use Encode;
+
+has encoding => (
+    is => 'lazy',
+    default => sub { Encode::find_encoding('UTF-8') }
+);
 
 has redis => (
     is => 'lazy',
@@ -142,16 +148,21 @@ sub xml_out {
 #        description => "desc",
 #    }
 #};
+sub get_thumb_data {
+    my ( $self, $src ) = @_;
+    my $thumb_data =
+      { map { $self->encoding->decode($_) }
+          $self->redis->hgetall( $self->encoding->encode($src) ) };
+    $thumb_data = Wikipedia::Felcher->get_thumb($src);
+    return unless $thumb_data;
+    $self->redis->hmset( map { $self->encoding->encode($_) } ( $src, %$thumb_data ) );
+    return $thumb_data;
+}
 
 sub pmark {
     my($self,$obj) = @_;
     warn Dumper $obj;
-    my $thumber = $self->redis->get($obj->{image});
-    if( !defined($thumber) ) {
-        $thumber = Felcher->get_thumb( $obj->{image} );
-        $thumber = $thumber->{src} if $thumber;
-        $self->redis->set( $obj->{image}, $thumber || 0 );
-    }
+
     my $ret = {
         Placemark => {
             Snippet => cdata( $obj->{image} ),
@@ -161,10 +172,13 @@ sub pmark {
             }    #it's long,lat for some odd reason
         }
     };
-    if ($thumber) {
+
+    my $thumber = $self->get_thumb_data( $obj->{image} );
+
+    if (keys %$thumber) {
         $ret->{Placemark}{description} = cdata(
             "<br/>
-            <img src='$thumber' />
+            <img src='$$thumber{src}' height='$$thumber{h}' width='$$thumber{w}' />
             <br/>"
         );
     }

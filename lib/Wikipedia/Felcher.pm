@@ -75,7 +75,7 @@ package Wikipedia::Felcher {
         my $felcher = $class->new( filename => $fn );
         my $ret = $felcher->run;
         return unless $ret;
-        $ret->{src} =~ s| /\d+px | /200px |x;
+        $ret->{src} =~ s|/\d+px|/200px|x;
         return $ret;
     }
     1;
