@@ -2,6 +2,10 @@ use strictures 1;
 use Test::More;
 use Wikipedia::KML;
 use utf8;
+binmode STDOUT, ":encoding(UTF-8)";
+binmode STDERR, ":encoding(UTF-8)";
+use Encode;
+my $encoding  = Encode::find_encoding("UTF-8");
 my $test= '[[Logan Circle (Philadelphia)|Logan Circle]], opposite [[Franklin Institute]]';
 is_deeply(Wikipedia::KML::extract_wiki_links($test),[
     { 
@@ -15,19 +19,19 @@ is_deeply(Wikipedia::KML::extract_wiki_links($test),[
 ]);
 
 
+my $fabio = '{{sortname|Fábio|da Silva|Fábio Gomes da Silva|Silva, Fabio}}';
 
 my $sortnames = [
-    [ '{{sortname|Tom|Jones}}',          'Tom Jones', 'Tom Jones' ],
+    [ '{{sortname|Tom|Jones}}',"<a href ='http://en.wikipedia.org/wiki/Tom_Jones' target='_blank'>Tom Jones</a>" ],
     [
-        '{{sortname|Fábio|da Silva|Fábio Gomes da Silva|Silva, Fabio}}',
-        'Fábio da Silva', 'Fábio Gomes da Silva'
+        $fabio,
+        "<a href ='http://en.wikipedia.org/wiki/Fábio_da_Silva' target='_blank'>Fábio Gomes da Silva</a>"
     ],
 ];
 for(@$sortnames) {
-    is_deeply( 
-        Wikipedia::KML::extract_sortname( $_->[0] ),
-        { text => $_->[1], href => $_->[2] } 
-    );
+    is( 
+        Wikipedia::KML::extract_curly_wiki( $_->[0] ),$_->[1] );
+#        { text => $_->[1], href => $_->[2] } 
 }
 done_testing;
 #{{sortname|Tom|Jones|dab=singer}}   Tom Jones   Jones, Tom  Tom Jones (singer)

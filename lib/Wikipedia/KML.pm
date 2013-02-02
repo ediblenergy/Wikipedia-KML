@@ -220,8 +220,11 @@ sub wiki_link {
     my ($link,$name) = @_;
     carp "link required" unless $link;
     $name ||= $link;
+
     $link =~ s/\s+/_/g;
-    return "<a href ='http://en.wikipedia.org/wiki/$link' target='_blank'>$name</a>";
+    my $ret = "<a href ='http://en.wikipedia.org/wiki/$link' target='_blank'>$name</a>";
+    warn $ret;
+    return $ret;
 }
 sub pmark {
     my ( $self, $obj ) = @_;
