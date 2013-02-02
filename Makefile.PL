@@ -6,5 +6,9 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
   NAME => 'Wikipedia-KML',
-  VERSION_FROM => 'lib/Wikipedia/KML.pm'
+  VERSION_FROM => 'lib/Wikipedia/KML.pm',
+  PREREQ_PM => {
+    'Image::Size' => 0,
+    'LWP::UserAgent' => 0,
+  }
 );

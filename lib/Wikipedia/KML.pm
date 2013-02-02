@@ -67,11 +67,12 @@ sub parse_coords_to_ll {
 }
 sub parse_coords {
     my ($coords) = @_;
-#    warn $coords;
     my @m = $coords =~ /$num/gx;
     return unless @m;
-    if(@m == 2) {
-        return [shift(@m),shift(@m)];
+    if ( @m == 2 ) {
+        unless ( $coords =~ /\|N\| | \|W\|/x ) {
+            return [ shift(@m), shift(@m) ];
+        }
     }
     return parse_coords_to_ll($coords);
 }
@@ -148,31 +149,30 @@ sub pmark {
     my $thumber = $self->redis->get($obj->{image});
     if( !defined($thumber) ) {
         $thumber = Felcher->get_thumb( $obj->{image} );
+        $thumber = $thumber->{src} if $thumber;
         $self->redis->set( $obj->{image}, $thumber || 0 );
     }
     my $ret = {
         Placemark => {
             Snippet => cdata( $obj->{image} ),
             Point =>
-              { coordinates => join( ',' => ( reverse(@{ $obj->{coords} }), 0 ) ) } #it's long,lat for some odd reason
+            { coordinates =>
+                  join( ',' => ( $obj->{coords}[1], $obj->{coords}[0], 0 ) )
+            }    #it's long,lat for some odd reason
         }
     };
     if ($thumber) {
-        $ret->{Placemark}{description} = cdata("<img src='$thumber' />");
+        $ret->{Placemark}{description} = cdata(
+            "<br/>
+            <img src='$thumber' />
+            <br/>"
+        );
     }
     return $ret;
 }
 sub _sculptures {
     my $self = shift;
     my @sculptures = grep { $_->{coordinates} } map { parse_match($_) } @{$self->_matches};
-#    for(@sculptures) {
-#        warn Dumper $_;
-#        $_->{image}
-#        $_->{coordinates}
-#        my $coords=  parse_coords( $_->{coordinates} );
-#        warn Dumper $coords;
-#        die "DEAD:". Dumper $_->{coordinates} if $coords and !$coords->[0];
-#    }
     return \@sculptures;
 }
 sub print_html {
