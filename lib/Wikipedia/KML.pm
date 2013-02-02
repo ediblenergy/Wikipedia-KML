@@ -14,6 +14,7 @@ use Moo;
 use Wikipedia::Felcher;
 use Redis;
 use Encode;
+use Carp;
 
 has encoding => (
     is => 'lazy',
@@ -153,41 +154,122 @@ sub get_thumb_data {
     my $thumb_data =
       { map { $self->encoding->decode($_) }
           $self->redis->hgetall( $self->encoding->encode($src) ) };
-    $thumb_data = Wikipedia::Felcher->get_thumb($src);
+    if ( !keys(%$thumb_data) ) {
+        $thumb_data = Wikipedia::Felcher->get_thumb($src);
+    }
     return unless $thumb_data;
     $self->redis->hmset( map { $self->encoding->encode($_) } ( $src, %$thumb_data ) );
     return $thumb_data;
 }
-
-sub pmark {
-    my($self,$obj) = @_;
+#      grep { defined } @$obj{qw[subject artist date location material  ]};
+#    if ( keys %$thumber ) {
+#        $description = "<br/>
+#            <img src='$$thumber{src}' height='$$thumber{h}' width='$$thumber{w}' />
+#            <br/>
+#            $description";
+#    }
+sub get_description {
+    my $obj   = shift;
     warn Dumper $obj;
+    my $templ = {
+        artist     => sub { linkify(shift) },
+        thumb_data => sub {
+            my $thumb = shift;
+"<img src='$thumb->{src}' width='$thumb->{w}' height='$thumb->{h}'/>"
+        },
+        date     => sub { shift },
+        location => sub { linkify(shift) },
+        material => sub { shift },
+    };
+    return join "<br/>" => map {$templ->{$_}->( $obj->{$_} ) }
+      grep { $templ->{$_} &&  $obj->{$_} } qw[
+    thumb_data
+    location
+    artist
+    date
+    material
+  ];
+}
+sub linkify {
+    for($_[0]) {
+        s/(\{\{.*?\}\})/extract_curly_wiki($1)/ge;
+        s/(\[\[(.*)?\]\])/extract_wiki_link($1)/ge;
+        return $_;
+    }
+}
 
-    my $ret = {
+#{{sortname|first|last|optional link target|optional sort key}}
+sub extract_curly_wiki {
+    my $txt = shift;
+    my ($dat) = $txt =~ /(?:\{\{\s*)(.*)?(?:\s*\}\})/;
+    return wiki_link($txt) unless $dat; #not marked up
+    carp "data missing from $txt" unless $dat;
+    my (undef,$first,$last,$optional_link_target) = split(/\|/, $dat);
+    $optional_link_target ||= "$first $last";
+    return wiki_link("$first $last", $optional_link_target);
+}
+sub wiki_link_sortname {
+    my $txt = shift;
+    my $res = extract_sortname($txt);
+}
+sub wiki_link {
+    my ($link,$name) = @_;
+    carp "link required" unless $link;
+    $name ||= $link;
+    $link =~ s/\s+/_/g;
+    return "<a href ='http://en.wikipedia.org/wiki/$link' target='_blank'>$name</a>";
+}
+sub pmark {
+    my ( $self, $obj ) = @_;
+    my $snippet = join " " => map { "<li>" . strip_wikitext($_) . "</li>" }
+      grep { defined } @$obj{qw[ location ]};
+    $snippet = "<ul>$snippet</ul>";
+    $obj->{thumb_data} = $self->get_thumb_data( $obj->{image} );
+    return {
         Placemark => {
-            Snippet => cdata( $obj->{image} ),
-            Point =>
-            { coordinates =>
+            Snippet => cdata($snippet),
+            name    => cdata(
+                strip_wikitext( $obj->{subject} ),
+            ),
+            description => cdata( get_description( $obj ) ),
+            Point => {
+                coordinates =>
                   join( ',' => ( $obj->{coords}[1], $obj->{coords}[0], 0 ) )
-            }    #it's long,lat for some odd reason
+              }    #it's long,lat for some odd reason
         }
     };
-
-    my $thumber = $self->get_thumb_data( $obj->{image} );
-
-    if (keys %$thumber) {
-        $ret->{Placemark}{description} = cdata(
-            "<br/>
-            <img src='$$thumber{src}' height='$$thumber{h}' width='$$thumber{w}' />
-            <br/>"
-        );
-    }
-    return $ret;
 }
 sub _sculptures {
     my $self = shift;
     my @sculptures = grep { $_->{coordinates} } map { parse_match($_) } @{$self->_matches};
     return \@sculptures;
+}
+sub strip_wikitext {
+    my $str = shift;
+    $str =~ s/[^\w ()]/ /g;
+    $str =~ s/\s+/ /g;
+    return $str;
+}
+sub extract_wiki_link {
+    my $txt = shift;
+    my ($data) = @{ extract_wiki_links($txt) };
+    return wiki_link($data->{text},$data->{href});
+}
+sub extract_wiki_links {
+    my $txt = shift;
+    my @links = $txt =~ m/\[\[(.*?)\]\]/gx;
+    return [
+        map {
+            warn $_;
+            my ( $text, $href ) = split( /\|/, $_ );
+            $href ||= $text;
+            $href =~ s/\s+/_/g;
+            {
+                text => $text,
+                href => $href,
+            }
+        } @links
+      ]
 }
 sub print_html {
     my $self = shift;
@@ -196,12 +278,10 @@ sub print_html {
     for(@{ $self->_sculptures }) {
         next unless $_->{image};
         my $cords = parse_coords( $_->{coordinates} );
+        $_->{coords} = $cords;
+        
         next unless $cords;
-        my $inp = {
-            image  => $_->{image},
-            coords => $cords,
-          };
-        print xml_out( $self->pmark( $inp ) );
+        print xml_out( $self->pmark( $_ ) );
     }
     print $self->footer;
 }
