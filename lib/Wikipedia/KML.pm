@@ -171,6 +171,8 @@ sub get_thumb_data {
 sub get_description {
     my $obj   = shift;
     warn Dumper $obj;
+    my $from = "Source: ". wiki_link('List of public art in Philadelphia');
+    $obj->{from} = $from;
     my $templ = {
         artist     => sub { linkify(shift) },
         thumb_data => sub {
@@ -180,6 +182,7 @@ sub get_description {
         date     => sub { shift },
         location => sub { linkify(shift) },
         material => sub { shift },
+        from => sub { shift },
     };
     return join "<br/>" => map {$templ->{$_}->( $obj->{$_} ) }
       grep { $templ->{$_} &&  $obj->{$_} } qw[
@@ -188,6 +191,7 @@ sub get_description {
     artist
     date
     material
+    from
   ];
 }
 sub linkify {
@@ -276,7 +280,7 @@ sub print_html {
     local $|=1; #autoflush
     print $self->header;
     for(@{ $self->_sculptures }) {
-        next unless $_->{image};
+#        next unless $_->{image};
         my $cords = parse_coords( $_->{coordinates} );
         $_->{coords} = $cords;
         
